@@ -1,0 +1,49 @@
+name: Discover Steam candidates
+
+on:
+  schedule:
+    - cron: '45 23 * * 0' # 每周一北京时间 07:45
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: duo-games-maintenance
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+          package-manager-cache: false
+      - name: Discover candidates without adding formal games
+        id: scan
+        run: node scripts/discover.mjs
+      - name: Validate catalogue and candidate statuses
+        id: validate
+        if: always() && steps.scan.outputs.report_ready == 'true'
+        run: node scripts/validate.mjs
+      - name: Save ledger and coverage report
+        id: save
+        if: always() && steps.validate.outcome == 'success'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/candidates.tsv reports/
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: update Steam candidate review queue [skip ci]'
+            git push
+          fi
+      - name: Update the candidate review issue
+        if: always() && steps.save.outcome == 'success'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: node scripts/sync-issue.mjs

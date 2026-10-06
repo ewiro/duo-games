@@ -1,0 +1,454 @@
+{
+  "apps": {
+    "620": {
+      "appId": 620,
+      "type": "game",
+      "steamName": "Portal 2",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/faffc0f560786e2f05104a8d2fac837c6969bf13/header.jpg?t=1790187113",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 840,
+        "discountPercent": 80,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "238460": {
+      "appId": 238460,
+      "type": "game",
+      "steamName": "BattleBlock Theater®",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238460/header.jpg?t=1779296698",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 4800,
+        "final": 1440,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "341800": {
+      "appId": 341800,
+      "type": "game",
+      "steamName": "Keep Talking and Nobody Explodes",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/341800/header.jpg?t=1699020889",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 5800,
+        "final": 2900,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "548430": {
+      "appId": 548430,
+      "type": "game",
+      "steamName": "Deep Rock Galactic",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/d3edf99a4ae52d305ec6ddd2a8f2703499b8aae5/header_alt_assets_28.jpg?t=1790248272",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 10800,
+        "final": 3240,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "582010": {
+      "appId": 582010,
+      "type": "game",
+      "steamName": "Monster Hunter: World",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1773328926",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 14800,
+        "final": 3848,
+        "discountPercent": 74,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "582500": {
+      "appId": 582500,
+      "type": "game",
+      "steamName": "We Were Here",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582500/header.jpg?t=1764329099",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 0,
+        "final": 0,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "674940": {
+      "appId": 674940,
+      "type": "game",
+      "steamName": "Stick Fight: The Game",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/header.jpg?t=1730715399",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 1900,
+        "final": 760,
+        "discountPercent": 60,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "677160": {
+      "appId": 677160,
+      "type": "game",
+      "steamName": "We Were Here Too",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677160/header.jpg?t=1764329780",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 1260,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "728880": {
+      "appId": 728880,
+      "type": "game",
+      "steamName": "Overcooked! 2",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/9305414f49b2f7aee7f7198dc507d6b66383fdd6/header.jpg?t=1789548883",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 9800,
+        "final": 2450,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "790740": {
+      "appId": 790740,
+      "type": "game",
+      "steamName": "Tick Tock: A Tale for Two",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790740/header.jpg?t=1790146243",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 2600,
+        "final": 1820,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "865360": {
+      "appId": 865360,
+      "type": "game",
+      "steamName": "We Were Here Together",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865360/header.jpg?t=1764330773",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 5200,
+        "final": 1976,
+        "discountPercent": 62,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "892970": {
+      "appId": 892970,
+      "type": "game",
+      "steamName": "Valheim",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1790220314",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 8900,
+        "final": 8010,
+        "discountPercent": 10,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "905340": {
+      "appId": 905340,
+      "type": "game",
+      "steamName": "Heave Ho",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/905340/header.jpg?t=1784605800",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 1050,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1222700": {
+      "appId": 1222700,
+      "type": "game",
+      "steamName": "A Way Out",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg?t=1777323433",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 15800,
+        "final": 4740,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1225570": {
+      "appId": 1225570,
+      "type": "game",
+      "steamName": "Unravel Two",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg?t=1777389655",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 11800,
+        "final": 1770,
+        "discountPercent": 85,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1242980": {
+      "appId": 1242980,
+      "type": "game",
+      "steamName": "KeyWe",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1242980/header.jpg?t=1715615079",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 8000,
+        "final": 1200,
+        "discountPercent": 85,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1286580": {
+      "appId": 1286580,
+      "type": "game",
+      "steamName": "Ship of Fools",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286580/4ff91ed3d568665ee52dc987b1a6ba64e6c847f9/header.jpg?t=1780480732",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 9900,
+        "final": 2475,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1335790": {
+      "appId": 1335790,
+      "type": "game",
+      "steamName": "Operation: Tango",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1335790/header.jpg?t=1762781027",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 7600,
+        "final": 1900,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1341290": {
+      "appId": 1341290,
+      "type": "game",
+      "steamName": "We Were Here Forever",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1341290/header.jpg?t=1764331788",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 6800,
+        "final": 2720,
+        "discountPercent": 60,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1446780": {
+      "appId": 1446780,
+      "type": "game",
+      "steamName": "MONSTER HUNTER RISE",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg?t=1768870444",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 19800,
+        "final": 1980,
+        "discountPercent": 90,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1478500": {
+      "appId": 1478500,
+      "type": "game",
+      "steamName": "Big Walk",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 7800,
+        "final": 6240,
+        "discountPercent": 20,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1515210": {
+      "appId": 1515210,
+      "type": "game",
+      "steamName": "The Past Within",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/header.jpg?t=1740070156",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 2600,
+        "final": 1820,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1557740": {
+      "appId": 1557740,
+      "type": "game",
+      "steamName": "ROUNDS",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg?t=1759328419",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 2500,
+        "final": 1250,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1599600": {
+      "appId": 1599600,
+      "type": "game",
+      "steamName": "PlateUp!",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/5787f84f6481b00b8d263475c06b177a1bff1ff8/header_alt_assets_7.jpg?t=1790949163",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 6800,
+        "final": 680,
+        "discountPercent": 90,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1607680": {
+      "appId": 1607680,
+      "type": "game",
+      "steamName": "Bread & Fred",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607680/header.jpg?t=1773071421",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 3900,
+        "final": 1560,
+        "discountPercent": 60,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1801110": {
+      "appId": 1801110,
+      "type": "game",
+      "steamName": "BOKURA",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/header.jpg?t=1788100714",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 2300,
+        "final": 1150,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "1812090": {
+      "appId": 1812090,
+      "type": "game",
+      "steamName": "Escape Academy",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812090/header.jpg?t=1747087130",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 7000,
+        "final": 1050,
+        "discountPercent": 85,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "2001120": {
+      "appId": 2001120,
+      "type": "game",
+      "steamName": "Split Fiction",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 19800,
+        "final": 12870,
+        "discountPercent": 35,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "2296990": {
+      "appId": 2296990,
+      "type": "game",
+      "steamName": "We Were Here Expeditions: The FriendShip",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296990/header.jpg?t=1764331912",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 1800,
+        "final": 450,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      }
+    },
+    "2567870": {
+      "appId": 2567870,
+      "type": "game",
+      "steamName": "Chained Together",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/9989d3793429ffa481cc3228bb66d65565b9ce2b/header.jpg?t=1790865724",
+      "metadataCheckedAt": "2026-10-06",
+      "priceRefreshFailed": false,
+      "price": {
+        "currency": "CNY",
+        "initial": 2200,
+        "final": 1760,
+        "discountPercent": 20,
+        "checkedAt": "2026-10-06"
+      }
+    }
+  }
+}

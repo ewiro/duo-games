@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f6f3">
+  <meta name="description" content="为两名朋友整理的 Steam 双人游戏表。按类型、联机方式、双人适配度和玩法关系筛选，查看具体玩法、人数依据与中国区价格。">
+  <title>双人游戏表</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#results">跳到游戏列表</a>
+  <header class="masthead">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 40 40" fill="none"><rect x="7" y="9" width="15" height="22" rx="7" stroke="currentColor" stroke-width="2.5"/><rect x="18" y="9" width="15" height="22" rx="7" stroke="currentColor" stroke-width="2.5"/><path d="M12 20h5m-2.5-2.5v5" stroke="currentColor" stroke-width="2"/><circle cx="25" cy="18" r="1.4" fill="currentColor"/><circle cx="28" cy="22" r="1.4" fill="currentColor"/></svg></span>
+      <div><h1>双人游戏表</h1><p>两名朋友，下一款一起玩什么？</p></div>
+    </div>
+    <div class="edition"><span class="live-dot"></span><span id="catalogue-count">正在读取清单</span><span class="edition-sub">STEAM · 两人游玩参考</span></div>
+  </header>
+  <main>
+    <section class="filter-panel" aria-label="查找与筛选游戏">
+      <form id="filters">
+        <div class="search-line">
+          <div class="search-box"><label for="q" class="sr-only">搜索游戏</label><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="1.7"/><path d="m16 16 4.5 4.5" stroke="currentColor" stroke-width="1.7"/></svg><input id="q" type="search" placeholder="搜索游戏名、中文别名或玩法…" autocomplete="off"></div>
+          <div class="sort-control"><label for="sort">排序</label><select id="sort"><option value="fit">双人适配度优先</option><option value="price-asc">价格：从低到高</option><option value="price-desc">价格：从高到低</option><option value="name">游戏名称</option><option value="verified">最近核验</option></select></div>
+          <button type="reset" class="reset-button">重置筛选 <span aria-hidden="true">↺</span></button>
+        </div>
+        <div class="filter-grid">
+          <label for="category">游戏类型<select id="category"><option value="">全部类型</option></select></label>
+          <label for="mode">联机方式<select id="mode"><option value="">全部方式</option></select></label>
+          <label for="fit">双人适配度<select id="fit"><option value="">全部适配度</option><option value="3">3 · 双人首选</option><option value="2">2 · 双人可玩</option><option value="1">1 · 更适合多人</option></select></label>
+          <label for="relation">玩法关系<select id="relation"><option value="">全部关系</option></select></label>
+        </div>
+      </form>
+    </section>
+    <div class="list-toolbar">
+      <div class="result-summary"><h2>游戏清单 <span id="result-count">—</span></h2><p id="result-status" role="status" aria-live="polite">正在加载游戏…</p></div>
+      <div class="source-filter" role="group" aria-label="按来源筛选"><button type="button" data-source="" aria-pressed="true">全部来源</button><button type="button" data-source="热门游戏" aria-pressed="false">热门游戏</button><button type="button" data-source="经典补充" aria-pressed="false">经典补充</button><button type="button" data-source="补充" aria-pressed="false">补充</button></div>
+    </div>
+    <div class="list-head" aria-hidden="true"><span>游戏 / 类型</span><span>人数 / 联机方式</span><span>双人适配度</span><span>两人怎么玩</span><span>中国区单份价格</span></div>
+    <section id="results" class="game-list" aria-label="游戏列表" tabindex="-1"></section>
+    <div id="empty" class="empty-state" hidden><span class="empty-symbol" aria-hidden="true">⌕</span><h3>没有找到符合条件的游戏</h3><p>换个关键词，或放宽一个筛选条件试试。</p><button type="button" id="empty-reset">清除全部筛选</button></div>
+    <div id="load-error" class="empty-state" role="alert" hidden><h3>游戏清单暂时无法读取</h3><p>请检查网络后重试；本地运行请使用项目的预览服务。</p><button type="button" id="retry">重新加载</button></div>
+    <noscript><p class="empty-state">请启用 JavaScript 来搜索和筛选游戏。</p></noscript>
+    <details class="guide"><summary>如何看双人适配度与联机方式 <span aria-hidden="true">＋</span></summary><div class="guide-content"><p><strong>3 · 双人首选</strong> 两人即可获得完整体验，机制或关卡明确适合双人。</p><p><strong>2 · 双人可玩</strong> 能正常游玩，部分内容、难度或节奏更适合更多玩家。</p><p><strong>1 · 更适合多人</strong> 需要机器人、公开匹配或更多玩家才能获得主要乐趣。</p><p><strong>远程同乐</strong> 使用 Steam 串流本地多人玩法，网络质量会影响操作。<strong>语音协作</strong> 也包括不联网同步、两台设备靠沟通解谜的游戏，请看每款具体说明。</p></div></details>
+  </main>
+  <footer><p>人数依据逐款核验 · 自动发现的候选经人工审核后收录</p><p>中国区价格按最后成功核价日期显示，以 Steam 结算为准。</p><a href="#top" id="back-top">回到顶部 ↑</a></footer>
+</body>
+</html>

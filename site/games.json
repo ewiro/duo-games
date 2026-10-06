@@ -1,0 +1,1016 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-06",
+  "games": [
+    {
+      "id": 2001120,
+      "name": "Split Fiction",
+      "aliases": [
+        "双影奇境"
+      ],
+      "category": [
+        "动作冒险",
+        "平台闯关"
+      ],
+      "players": "2 人",
+      "mode": [
+        "在线联机",
+        "本地分屏",
+        "远程同乐",
+        "跨平台"
+      ],
+      "fit": 3,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人用不同能力衔接跳跃和战斗；好友通行证只需一人购买，在线需 EA 账号，科幻与奇幻关卡交替。",
+      "evidenceUrl": "https://store.steampowered.com/app/2001120/",
+      "evidenceNote": "商店说明为两名搭档的合作冒险，好友通行证允许另一名玩家游玩完整游戏。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/2001120/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
+      "price": {
+        "currency": "CNY",
+        "initial": 19800,
+        "final": 12870,
+        "discountPercent": 35,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 620,
+      "name": "Portal 2",
+      "aliases": [
+        "传送门2"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "2 人（合作战役）",
+      "mode": [
+        "在线联机",
+        "本地分屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人各开传送门、互报位置与时机，专属合作战役可以完整通关；在线各需一份，本地或远程同乐可共用一份。",
+      "evidenceUrl": "https://store.steampowered.com/app/620/",
+      "evidenceNote": "商店明确说明独立的 two-player cooperative campaign。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/620/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/faffc0f560786e2f05104a8d2fac837c6969bf13/header.jpg?t=1790187113",
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 840,
+        "discountPercent": 80,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1222700,
+      "name": "A Way Out",
+      "aliases": [
+        "逃出生天"
+      ],
+      "category": [
+        "剧情合作",
+        "动作冒险"
+      ],
+      "players": "2 人",
+      "mode": [
+        "在线联机",
+        "本地分屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "一人吸引注意、另一人执行越狱，分屏同时推进两条视角；远程同乐可共用一份，原生在线需 EA 账号并可用好友通行证。",
+      "evidenceUrl": "https://store.steampowered.com/app/1222700/",
+      "evidenceNote": "商店明确说明 must be played with two players。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1222700/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg?t=1777323433",
+      "price": {
+        "currency": "CNY",
+        "initial": 15800,
+        "final": 4740,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 582500,
+      "name": "We Were Here",
+      "aliases": [
+        "我们在这里"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "2 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 3,
+      "source": "经典补充",
+      "relation": "非对称合作",
+      "reason": "两人被隔在不同房间，只能靠描述符号和地图开门；免费入门篇，两人都要能用麦克风，需持续沟通。",
+      "evidenceUrl": "https://store.steampowered.com/app/582500/",
+      "evidenceNote": "商店明确描述两名玩家被困城堡，要求双方使用麦克风。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/582500/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582500/header.jpg?t=1764329099",
+      "price": {
+        "currency": "CNY",
+        "initial": 0,
+        "final": 0,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 677160,
+      "name": "We Were Here Too",
+      "aliases": [
+        "我们在这里也"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "2 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 3,
+      "source": "经典补充",
+      "relation": "非对称合作",
+      "reason": "两人分处城堡不同区域，靠对讲机对齐机关线索；双方各需购买并准备麦克风，适合连续专注解谜。",
+      "evidenceUrl": "https://store.steampowered.com/app/677160/",
+      "evidenceNote": "商店明确说明双方不同视角和剧情，要求 both players 使用麦克风。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/677160/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677160/header.jpg?t=1764329780",
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 1260,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 865360,
+      "name": "We Were Here Together",
+      "aliases": [
+        "我们一起在这里"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "2 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "非对称合作",
+      "reason": "两名探索者从营地出发再分头解谜，互相描述看不到的机关；双方各需一份及麦克风，建议分几次推进。",
+      "evidenceUrl": "https://store.steampowered.com/app/865360/",
+      "evidenceNote": "商店描述营地的两人一起救援，要求双方麦克风及网络连接。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/865360/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865360/header.jpg?t=1764330773",
+      "price": {
+        "currency": "CNY",
+        "initial": 5200,
+        "final": 1976,
+        "discountPercent": 62,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1341290,
+      "name": "We Were Here Forever",
+      "aliases": [
+        "我们永远在这里"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "2 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 3,
+      "source": "热门游戏",
+      "relation": "非对称合作",
+      "reason": "一人看到图案、另一人操作机关，持续核对线索逃离城堡；双方各需购买与麦克风，流程比系列短篇更长。",
+      "evidenceUrl": "https://store.steampowered.com/app/1341290/",
+      "evidenceNote": "商店明确列出 Two player co-op，并说明谜题需要双方各司其职。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1341290/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1341290/header.jpg?t=1764331788",
+      "price": {
+        "currency": "CNY",
+        "initial": 6800,
+        "final": 2720,
+        "discountPercent": 60,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 2296990,
+      "name": "We Were Here Expeditions: The FriendShip",
+      "aliases": [
+        "我们在这里探险友谊号"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "2 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "非对称合作",
+      "reason": "两人用对讲机解游乐园的合作谜题，适合一晚完成后交换分工再试；双方各需一份和麦克风。",
+      "evidenceUrl": "https://store.steampowered.com/app/2296990/",
+      "evidenceNote": "商店说明 two of you，以及 puzzles that take two to solve。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/2296990/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296990/header.jpg?t=1764331912",
+      "price": {
+        "currency": "CNY",
+        "initial": 1800,
+        "final": 450,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1335790,
+      "name": "Operation: Tango",
+      "aliases": [
+        "行动探戈"
+      ],
+      "category": [
+        "双人解谜",
+        "潜入协作"
+      ],
+      "players": "2 人",
+      "mode": [
+        "在线联机",
+        "跨平台",
+        "语音协作"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "非对称合作",
+      "reason": "一人当特工、一人当黑客，靠语音同步破解安保；必须用麦克风，好友通行证可只买一份，不支持本地同屏。",
+      "evidenceUrl": "https://store.steampowered.com/app/1335790/",
+      "evidenceNote": "商店明确说明 exclusive team of two，并列出好友通行证、跨平台和在线限定。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1335790/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1335790/header.jpg?t=1762781027",
+      "price": {
+        "currency": "CNY",
+        "initial": 7600,
+        "final": 1900,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1801110,
+      "name": "BOKURA",
+      "aliases": [
+        "我们曾到此"
+      ],
+      "category": [
+        "双人解谜",
+        "平台闯关"
+      ],
+      "players": "2 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "非对称合作",
+      "reason": "两人眼中的世界不同，必须描述障碍才能互相搭路；各需一份和独立设备，不能单机同屏，包含压抑情节。",
+      "evidenceUrl": "https://store.steampowered.com/app/1801110/",
+      "evidenceNote": "商店明确说明 only two players，two separate machines，不能由电脑代替第二人。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含压抑情节",
+      "steamUrl": "https://store.steampowered.com/app/1801110/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/header.jpg?t=1788100714",
+      "price": {
+        "currency": "CNY",
+        "initial": 2300,
+        "final": 1150,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1607680,
+      "name": "Bread & Fred",
+      "aliases": [
+        "面包与年糕"
+      ],
+      "category": [
+        "平台闯关"
+      ],
+      "players": "2 人（合作模式）",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作互坑",
+      "reason": "两只企鹅用绳索连在一起，数拍一起起跳或甩搭档上高台；失误常会一起掉落，适合愿意反复练配合的两人。",
+      "evidenceUrl": "https://store.steampowered.com/app/1607680/",
+      "evidenceNote": "商店明确说明 two players must cooperate to jump and climb。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1607680/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607680/header.jpg?t=1773071421",
+      "price": {
+        "currency": "CNY",
+        "initial": 3900,
+        "final": 1560,
+        "discountPercent": 60,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1242980,
+      "name": "KeyWe",
+      "aliases": [
+        "奇异鸟邮局"
+      ],
+      "category": [
+        "欢乐协作",
+        "双人解谜"
+      ],
+      "players": "2 人（合作模式）",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人分别操控一只奇异鸟，分头敲字、盖章和传递包裹；忙起来需要报任务，适合短关卡轮流挑战评级。",
+      "evidenceUrl": "https://store.steampowered.com/app/1242980/",
+      "evidenceNote": "商店描述两只奇异鸟与一名朋友配合，支持 couch 或 online 共同完成邮局任务。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1242980/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1242980/header.jpg?t=1715615079",
+      "price": {
+        "currency": "CNY",
+        "initial": 8000,
+        "final": 1200,
+        "discountPercent": 85,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1225570,
+      "name": "Unravel Two",
+      "aliases": [
+        "毛线小精灵2"
+      ],
+      "category": [
+        "平台闯关",
+        "双人解谜"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两名毛线角色用绳索摆荡、拉住对方过障碍，节奏较温和；无原生在线联机，异地需用 Steam 远程同乐。",
+      "evidenceUrl": "https://store.steampowered.com/app/1225570/",
+      "evidenceNote": "商店描述 two Yarnys，既可单人控制两个角色，也可本地合作。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1225570/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg?t=1777389655",
+      "price": {
+        "currency": "CNY",
+        "initial": 11800,
+        "final": 1770,
+        "discountPercent": 85,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 238460,
+      "name": "BattleBlock Theater",
+      "aliases": [
+        "战斗砖块剧场"
+      ],
+      "category": [
+        "平台闯关"
+      ],
+      "players": "故事 1–2 人；竞技最多 4 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "经典补充",
+      "relation": "合作互坑",
+      "reason": "两人一起踩机关、扔搭档越过陷阱，也能故意添乱；故事模式最多两人，适合短关卡连续闯关。",
+      "evidenceUrl": "https://store.steampowered.com/app/238460/",
+      "evidenceNote": "商店明确说明 up to two players in Story, and four in Arena。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/238460/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238460/header.jpg?t=1779296698",
+      "price": {
+        "currency": "CNY",
+        "initial": 4800,
+        "final": 1440,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 790740,
+      "name": "Tick Tock: A Tale for Two",
+      "aliases": [
+        "滴答双人冒险"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "2 人",
+      "mode": [
+        "语音协作",
+        "跨平台"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "非对称合作",
+      "reason": "两人各看自己的线索再口头拼答案，约一个晚上完成；各需一份和独立设备，游戏不联网同步，靠外部语音或当面沟通。",
+      "evidenceUrl": "https://store.steampowered.com/app/790740/",
+      "evidenceNote": "商店说明必须合并双方屏幕信息，可在两台 PC 或不同平台设备上游玩。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/790740/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790740/header.jpg?t=1790146243",
+      "price": {
+        "currency": "CNY",
+        "initial": 2600,
+        "final": 1820,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1515210,
+      "name": "The Past Within",
+      "aliases": [
+        "锈湖内在昔日"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "2 人",
+      "mode": [
+        "语音协作",
+        "跨平台"
+      ],
+      "fit": 3,
+      "source": "热门游戏",
+      "relation": "非对称合作",
+      "reason": "一人在过去、一人在未来，互报密码影响另一侧机关；双方各需购买和独立设备，约两小时，靠语音协作而非联网同步。",
+      "evidenceUrl": "https://store.steampowered.com/app/1515210/",
+      "evidenceNote": "商店明确说明合作限定、双方各有一份、一人在过去另一人在未来，可跨设备沟通。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含诡异与恐怖意象",
+      "steamUrl": "https://store.steampowered.com/app/1515210/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/header.jpg?t=1740070156",
+      "price": {
+        "currency": "CNY",
+        "initial": 2600,
+        "final": 1820,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1812090,
+      "name": "Escape Academy",
+      "aliases": [
+        "逃脱学院"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "在线联机",
+        "本地分屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人分头搜密室、汇总线索，在倒计时内合解机关；完整主线支持双人，适合一晚玩几间密室。",
+      "evidenceUrl": "https://store.steampowered.com/app/1812090/",
+      "evidenceNote": "商店明确说明 entirety 可以单人或 two player co-operative play 完成。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1812090/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812090/header.jpg?t=1747087130",
+      "price": {
+        "currency": "CNY",
+        "initial": 7000,
+        "final": 1050,
+        "discountPercent": 85,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1286580,
+      "name": "Ship of Fools",
+      "aliases": [
+        "愚人船"
+      ],
+      "category": [
+        "动作肉鸽"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人轮流装弹、操炮和修船，忙时互补左右舷火力；每次航行重新构筑，本地双人需要手柄。",
+      "evidenceUrl": "https://store.steampowered.com/app/1286580/",
+      "evidenceNote": "商店说明与 another shipmate 合作，或 solo sailor，并注明本地多人需手柄。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1286580/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286580/4ff91ed3d568665ee52dc987b1a6ba64e6c847f9/header.jpg?t=1780480732",
+      "price": {
+        "currency": "CNY",
+        "initial": 9900,
+        "final": 2475,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 341800,
+      "name": "Keep Talking and Nobody Explodes",
+      "aliases": [
+        "继续说话就不会爆炸"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "2 人以上",
+      "mode": [
+        "本地协作",
+        "语音协作"
+      ],
+      "fit": 3,
+      "source": "经典补充",
+      "relation": "非对称合作",
+      "reason": "一人看炸弹、一人查免费手册，互报按钮和符号赶在倒计时前拆弹；只需一份，异地可用外部语音，专家不能看炸弹屏幕。",
+      "evidenceUrl": "https://store.steampowered.com/app/341800/",
+      "evidenceNote": "商店明确说明 local co-op for two or more players，单份游戏加免费手册即可。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/341800/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/341800/header.jpg?t=1699020889",
+      "price": {
+        "currency": "CNY",
+        "initial": 5800,
+        "final": 2900,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1478500,
+      "name": "Big Walk",
+      "aliases": [
+        "大步走"
+      ],
+      "category": [
+        "探索协作",
+        "双人解谜"
+      ],
+      "players": "2–12 人",
+      "mode": [
+        "在线联机",
+        "跨平台",
+        "语音协作"
+      ],
+      "fit": 3,
+      "source": "热门游戏",
+      "relation": "合作互坑",
+      "reason": "两人用近距离语音、手势和工具找路解谜，也能偷走搭档的望远镜；节奏自由，各需一份和麦克风。",
+      "evidenceUrl": "https://store.steampowered.com/app/1478500/",
+      "evidenceNote": "商店明确说明最少 2 人、最多 12 人，双人是 focused co-op，冒险有结局。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1478500/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+      "price": {
+        "currency": "CNY",
+        "initial": 7800,
+        "final": 6240,
+        "discountPercent": 20,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 905340,
+      "name": "Heave Ho",
+      "aliases": [
+        "嘿哟"
+      ],
+      "category": [
+        "欢乐协作",
+        "平台闯关"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "补充",
+      "relation": "合作互坑",
+      "reason": "两人抓住彼此手臂摆荡过峡谷，一人松手就可能一起坠落；本地或远程同乐，不支持原生在线，更多人时更混乱。",
+      "evidenceUrl": "https://store.steampowered.com/app/905340/",
+      "evidenceNote": "商店说明最多四人本地合作或 Steam Remote Play，可单人，队友互相抓握通过平台。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/905340/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/905340/header.jpg?t=1784605800",
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 1050,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 728880,
+      "name": "Overcooked! 2",
+      "aliases": [
+        "胡闹厨房2"
+      ],
+      "category": [
+        "欢乐协作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作互坑",
+      "reason": "两人分工切菜、烹饪、上菜和洗盘，忙时需要频繁换岗；人数少时每人任务更多，高星挑战更吃默契。",
+      "evidenceUrl": "https://www.team17.com/news/overcooked-2-faq",
+      "evidenceNote": "官方 FAQ 明确说明支持四人以内，PC 可两人共用键盘，故事模式邀请好友。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/728880/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/9305414f49b2f7aee7f7198dc507d6b66383fdd6/header.jpg?t=1789548883",
+      "price": {
+        "currency": "CNY",
+        "initial": 9800,
+        "final": 2450,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1599600,
+      "name": "PlateUp!",
+      "aliases": [
+        "餐厅大亨"
+      ],
+      "category": [
+        "经营协作",
+        "欢乐协作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人分工后厨和前厅，再一起规划厨房自动化；一局局经营扩店，后期上菜与洗碗压力较大，适合连续玩几晚。",
+      "evidenceUrl": "https://www.plateupgame.com/presskit/",
+      "evidenceNote": "官网 Press Kit 明确列出本地及在线合作均为 1–4 人。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1599600/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/5787f84f6481b00b8d263475c06b177a1bff1ff8/header_alt_assets_7.jpg?t=1790949163",
+      "price": {
+        "currency": "CNY",
+        "initial": 6800,
+        "final": 680,
+        "discountPercent": 90,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 2567870,
+      "name": "Chained Together",
+      "aliases": [
+        "链在一起"
+      ],
+      "category": [
+        "平台闯关"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "本地分屏"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作互坑",
+      "reason": "两人被链条拴住，必须商量落点再一起跳；失误会拖着搭档掉下去，建议先用带检查点的入门模式。",
+      "evidenceUrl": "https://store.steampowered.com/app/2567870/",
+      "evidenceNote": "商店说明可独自或与最多三名朋友连在一起攀登，支持本地与在线合作。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/2567870/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/9989d3793429ffa481cc3228bb66d65565b9ce2b/header.jpg?t=1790865724",
+      "price": {
+        "currency": "CNY",
+        "initial": 2200,
+        "final": 1760,
+        "discountPercent": 20,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 548430,
+      "name": "Deep Rock Galactic",
+      "aliases": [
+        "深岩银河"
+      ],
+      "category": [
+        "合作射击"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人选互补职业，一人照明探路、另一人搭平台或清虫；私人房间可开局，但无法同时覆盖四职业工具，高难度更吃分工。",
+      "evidenceUrl": "https://store.steampowered.com/app/548430/",
+      "evidenceNote": "商店明确说明 1–4 players 一起探索洞穴、采矿并击退虫群。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/548430/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/d3edf99a4ae52d305ec6ddd2a8f2703499b8aae5/header_alt_assets_28.jpg?t=1790248272",
+      "price": {
+        "currency": "CNY",
+        "initial": 10800,
+        "final": 3240,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 582010,
+      "name": "Monster Hunter: World",
+      "aliases": [
+        "怪物猎人世界"
+      ],
+      "category": [
+        "动作狩猎"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人用不同武器配合打怪、救援和刷装备，适合长期固定搭档；剧情任务常需各自先看过场，部分特殊活动按多人设计。",
+      "evidenceUrl": "https://store.steampowered.com/app/582010/",
+      "evidenceNote": "商店明确说明可独自或与最多三名其他玩家合作狩猎，双人包含在这一人数范围内。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/582010/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1773328926",
+      "price": {
+        "currency": "CNY",
+        "initial": 14800,
+        "final": 3848,
+        "discountPercent": 74,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1446780,
+      "name": "MONSTER HUNTER RISE",
+      "aliases": [
+        "怪物猎人崛起"
+      ],
+      "category": [
+        "动作狩猎"
+      ],
+      "players": "1–4 人（集会所）",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人用翔虫机动配合控怪和输出，单场狩猎节奏较快；集会所可合作，村庄任务单人，Steam 版不与其他平台互通。",
+      "evidenceUrl": "https://store.steampowered.com/app/1446780/",
+      "evidenceNote": "商店说明集会所最多四名玩家，人数变化时动态调整难度，村庄与集会所分开。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1446780/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg?t=1768870444",
+      "price": {
+        "currency": "CNY",
+        "initial": 19800,
+        "final": 1980,
+        "discountPercent": 90,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 892970,
+      "name": "Valheim",
+      "aliases": [
+        "英灵神殿"
+      ],
+      "category": [
+        "生存建造"
+      ],
+      "players": "1–10 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人分工砍树建家、探索和打首领，可以私人世界从头推进；采集与航海耗时，适合固定时间慢慢玩的长线搭档。",
+      "evidenceUrl": "https://store.steampowered.com/app/892970/",
+      "evidenceNote": "商店明确说明 1–10 players 的合作探索生存游戏。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/892970/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1790220314",
+      "price": {
+        "currency": "CNY",
+        "initial": 8900,
+        "final": 8010,
+        "discountPercent": 10,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 674940,
+      "name": "Stick Fight: The Game",
+      "aliases": [
+        "火柴人乱斗"
+      ],
+      "category": [
+        "欢乐对抗"
+      ],
+      "players": "2–4 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "经典补充",
+      "relation": "对抗",
+      "reason": "两人在短回合里抢武器、借地形把对方打飞；无需陌生人即可私下对战，多人混战比双人更热闹。",
+      "evidenceUrl": "https://store.steampowered.com/app/674940/",
+      "evidenceNote": "商店明确列出本地或在线 2 to 4 PLAYERS，无单人模式。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/674940/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/header.jpg?t=1730715399",
+      "price": {
+        "currency": "CNY",
+        "initial": 1900,
+        "final": 760,
+        "discountPercent": 60,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1557740,
+      "name": "ROUNDS",
+      "aliases": [
+        "回合制枪战"
+      ],
+      "category": [
+        "欢乐对抗"
+      ],
+      "players": "2 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "对抗",
+      "reason": "两人一对一射击，每轮落败者挑强化卡反制对方，边打边组合奇怪武器；适合十几分钟一轮的快速对决。",
+      "evidenceUrl": "https://store.steampowered.com/app/1557740/",
+      "evidenceNote": "商店简介明确说明 1v1 的肉鸽射击，回合失败方通过强化卡追赶。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1557740/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg?t=1759328419",
+      "price": {
+        "currency": "CNY",
+        "initial": 2500,
+        "final": 1250,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    }
+  ]
+}

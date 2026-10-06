@@ -1,0 +1,89 @@
+{
+  "scannedAt": "2026-10-06",
+  "pages": 2,
+  "entrances": [
+    {
+      "key": "two-player",
+      "name": "双人合作",
+      "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685&term=two",
+      "total": 6418,
+      "sampled": 100,
+      "status": "ok"
+    },
+    {
+      "key": "online",
+      "name": "在线合作",
+      "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3843",
+      "total": 10491,
+      "sampled": 100,
+      "status": "ok"
+    },
+    {
+      "key": "local",
+      "name": "本地合作",
+      "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3841",
+      "total": 5177,
+      "sampled": 100,
+      "status": "ok"
+    },
+    {
+      "key": "puzzle",
+      "name": "双人解谜",
+      "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685%2C1664",
+      "total": 1523,
+      "sampled": 100,
+      "status": "ok"
+    },
+    {
+      "key": "versus",
+      "name": "双人对抗",
+      "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1775%2C7368",
+      "total": 3311,
+      "sampled": 100,
+      "status": "ok"
+    },
+    {
+      "key": "party",
+      "name": "欢乐游戏",
+      "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3859%2C4136",
+      "total": 5177,
+      "sampled": 100,
+      "status": "ok"
+    },
+    {
+      "key": "horror",
+      "name": "轻恐怖合作",
+      "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685%2C1667",
+      "total": 2069,
+      "sampled": 100,
+      "status": "ok"
+    },
+    {
+      "key": "sellers",
+      "name": "热销游戏",
+      "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=topsellers",
+      "total": 6824,
+      "sampled": 99,
+      "status": "ok"
+    },
+    {
+      "key": "new",
+      "name": "热门新品",
+      "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularnew",
+      "total": 404,
+      "sampled": 100,
+      "status": "ok"
+    },
+    {
+      "key": "wishlist",
+      "name": "热门愿望单",
+      "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularwishlist",
+      "total": 5207,
+      "sampled": 99,
+      "status": "ok"
+    }
+  ],
+  "discovered": 623,
+  "added": 2,
+  "pending": 598
+}
