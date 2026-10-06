@@ -2,7 +2,7 @@
 
 扫描日期：2026-10-06（Asia/Shanghai）。
 
-每个入口抽样前 100 条；多入口合并去重发现 623 款，本次新增 2 款。扫描是抽样防遗漏，不代表覆盖所有 Steam 游戏。
+每个入口抽样前 100 条；多入口合并去重发现 623 款，本次新增 0 款。扫描是抽样防遗漏，不代表覆盖所有 Steam 游戏。
 
 台账共 630 款：正式收录 30 款，待核验 598 款，已排除 2 款。
 
@@ -30,5 +30,3 @@
 
 ## 本次新增候选（最多展示 40 条，完整清单在 data/candidates.tsv）
 
-- [Fireboy & Watergirl 3: The Ice Temple](https://store.steampowered.com/app/5085500/) — 双人解谜
-- [Ticket to Ride®](https://store.steampowered.com/app/2477010/) — 双人对抗
