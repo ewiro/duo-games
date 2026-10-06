@@ -1,6 +1,6 @@
 # 双人游戏候选待审核
 
-最近扫描：2026-10-06。待核验 598 款；正式清单 30 款。
+最近扫描：2026-10-06。待核验 549 款；正式清单 96 款。
 
 自动发现仅建立队列，必须逐款人工核验，不能仅凭 Steam 多人/合作标签收录。
 
@@ -18,15 +18,9 @@
 - [ ] [Grand Theft Auto IV: The Complete Edition](https://store.steampowered.com/app/12210/) — 欢乐游戏
 - [ ] [Resident Evil 5](https://store.steampowered.com/app/21690/) — 本地合作、轻恐怖合作
 - [ ] [Trine Enchanted Edition](https://store.steampowered.com/app/35700/) — 双人解谜
-- [ ] [Trine 2: Complete Story](https://store.steampowered.com/app/35720/) — 双人解谜
 - [ ] [Call of Duty®: Black Ops](https://store.steampowered.com/app/42700/) — 轻恐怖合作
-- [ ] [Borderlands 2](https://store.steampowered.com/app/49520/) — 双人合作
 - [ ] [Nidhogg](https://store.steampowered.com/app/94400/) — 双人对抗
-- [ ] [ibb & obb](https://store.steampowered.com/app/95400/) — 双人解谜
-- [ ] [Terraria](https://store.steampowered.com/app/105600/) — 双人合作、在线合作、热销游戏、热门新品
-- [ ] [Project Zomboid](https://store.steampowered.com/app/108600/) — 热销游戏、热门新品
 - [ ] [Torchlight II](https://store.steampowered.com/app/200710/) — 双人合作
-- [ ] [Castle Crashers®](https://store.steampowered.com/app/204360/) — 本地合作、欢乐游戏
 - [ ] [Total War: ROME II - Emperor Edition](https://store.steampowered.com/app/214950/) — 双人合作
 - [ ] [PAYDAY 2](https://store.steampowered.com/app/218620/) — 双人合作、欢乐游戏
 - [ ] [Resident Evil 6](https://store.steampowered.com/app/221040/) — 本地合作、轻恐怖合作
@@ -46,7 +40,6 @@
 - [ ] [Rust](https://store.steampowered.com/app/252490/) — 在线合作
 - [ ] [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/) — 热销游戏、热门新品
 - [ ] [Subnautica](https://store.steampowered.com/app/264710/) — 热销游戏、热门新品
-- [ ] [Cuphead](https://store.steampowered.com/app/268910/) — 双人合作、本地合作、欢乐游戏
 - [ ] [Hero Siege](https://store.steampowered.com/app/269210/) — 本地合作
 - [ ] [American Truck Simulator](https://store.steampowered.com/app/270880/) — 热门新品
 - [ ] [Broforce](https://store.steampowered.com/app/274190/) — 本地合作
@@ -58,4 +51,11 @@
 - [ ] [Gang Beasts](https://store.steampowered.com/app/285900/) — 双人对抗、本地合作
 - [ ] [Tabletop Simulator](https://store.steampowered.com/app/286160/) — 在线合作、欢乐游戏
 - [ ] [Resident Evil Revelations 2](https://store.steampowered.com/app/287290/) — 轻恐怖合作
+- [ ] [Sid Meier’s Civilization® VI](https://store.steampowered.com/app/289070/) — 双人合作、在线合作、热销游戏、热门新品
+- [ ] [Brawlhalla](https://store.steampowered.com/app/291550/) — 需补核私人一对一房间玩法，避免把公开排名模式当作两名朋友互相对战证据。
+- [ ] [No More Room in Hell 2](https://store.steampowered.com/app/292000/) — 双人合作、在线合作、轻恐怖合作
+- [ ] [The Witcher 3: Wild Hunt — Remastered](https://store.steampowered.com/app/292030/) — 热门新品
+- [ ] [RimWorld](https://store.steampowered.com/app/294100/) — 热销游戏、热门新品
+- [ ] [Road Redemption](https://store.steampowered.com/app/300380/) — 双人对抗
+- [ ] [Resident Evil](https://store.steampowered.com/app/304240/) — 双人解谜、轻恐怖合作
 

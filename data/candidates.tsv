@@ -10,15 +10,16 @@ id	name	status	sources	firstSeen	lastSeen	reason
 12210	Grand Theft Auto IV: The Complete Edition	pending	欢乐游戏	2026-10-06	2026-10-06	
 21690	Resident Evil 5	pending	本地合作、轻恐怖合作	2026-10-06	2026-10-06	
 35700	Trine Enchanted Edition	pending	双人解谜	2026-10-06	2026-10-06	
-35720	Trine 2: Complete Story	pending	双人解谜	2026-10-06	2026-10-06	
+35720	Trine 2: Complete Story	included	双人解谜	2026-10-06	2026-10-06	
 42700	Call of Duty®: Black Ops	pending	轻恐怖合作	2026-10-06	2026-10-06	
-49520	Borderlands 2	pending	双人合作	2026-10-06	2026-10-06	
+49520	Borderlands 2	included	双人合作	2026-10-06	2026-10-06	
 94400	Nidhogg	pending	双人对抗	2026-10-06	2026-10-06	
-95400	ibb & obb	pending	双人解谜	2026-10-06	2026-10-06	
-105600	Terraria	pending	双人合作、在线合作、热销游戏、热门新品	2026-10-06	2026-10-06	
-108600	Project Zomboid	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
+95400	ibb & obb	included	双人解谜	2026-10-06	2026-10-06	
+105600	Terraria	included	双人合作、在线合作、热销游戏、热门新品	2026-10-06	2026-10-06	
+108600	Project Zomboid	included	热销游戏、热门新品	2026-10-06	2026-10-06	
 200710	Torchlight II	pending	双人合作	2026-10-06	2026-10-06	
-204360	Castle Crashers®	pending	本地合作、欢乐游戏	2026-10-06	2026-10-06	
+201790	Orcs Must Die! 2	included	人工核验	2026-10-06	2026-10-06	
+204360	Castle Crashers®	included	本地合作、欢乐游戏	2026-10-06	2026-10-06	
 214950	Total War: ROME II - Emperor Edition	pending	双人合作	2026-10-06	2026-10-06	
 218620	PAYDAY 2	pending	双人合作、欢乐游戏	2026-10-06	2026-10-06	
 221040	Resident Evil 6	pending	本地合作、轻恐怖合作	2026-10-06	2026-10-06	
@@ -39,7 +40,7 @@ id	name	status	sources	firstSeen	lastSeen	reason
 252490	Rust	pending	在线合作	2026-10-06	2026-10-06	
 261550	Mount & Blade II: Bannerlord	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
 264710	Subnautica	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
-268910	Cuphead	pending	双人合作、本地合作、欢乐游戏	2026-10-06	2026-10-06	
+268910	Cuphead	included	双人合作、本地合作、欢乐游戏	2026-10-06	2026-10-06	
 269210	Hero Siege	pending	本地合作	2026-10-06	2026-10-06	
 270880	American Truck Simulator	pending	热门新品	2026-10-06	2026-10-06	
 274190	Broforce	pending	本地合作	2026-10-06	2026-10-06	
@@ -62,9 +63,10 @@ id	name	status	sources	firstSeen	lastSeen	reason
 311560	Assassin’s Creed® Rogue	pending	双人解谜	2026-10-06	2026-10-06	
 311690	Enter the Gungeon	pending	本地合作	2026-10-06	2026-10-06	
 311730	DEAD OR ALIVE 5 Last Round: Core Fighters	pending	双人对抗	2026-10-06	2026-10-06	
+312530	Duck Game	included	人工核验	2026-10-06	2026-10-06	
 313690	LEGO® Batman™ 3: Beyond Gotham	pending	双人解谜	2026-10-06	2026-10-06	
 320430	Ascension: Deckbuilding Game	pending	双人对抗	2026-10-06	2026-10-06	
-322330	Don't Starve Together	pending	双人合作、在线合作、欢乐游戏、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
+322330	Don't Starve Together	included	双人合作、在线合作、欢乐游戏、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
 332570	Amazing Frog?	pending	双人对抗	2026-10-06	2026-10-06	
 335300	DARK SOULS™ II: Scholar of the First Sin	pending	双人合作	2026-10-06	2026-10-06	
 337320	Paint the Town Red	pending	欢乐游戏	2026-10-06	2026-10-06	
@@ -72,6 +74,7 @@ id	name	status	sources	firstSeen	lastSeen	reason
 349040	NARUTO SHIPPUDEN: Ultimate Ninja STORM 4	pending	本地合作	2026-10-06	2026-10-06	
 352400	LEGO® Jurassic World	pending	双人解谜	2026-10-06	2026-10-06	
 359550	Tom Clancy's Rainbow Six Siege	pending	在线合作	2026-10-06	2026-10-06	
+361420	ASTRONEER	included	人工核验	2026-10-06	2026-10-06	
 368500	Assassin's Creed® Syndicate	pending	欢乐游戏	2026-10-06	2026-10-06	
 373420	Divinity: Original Sin - Enhanced Edition	pending	本地合作	2026-10-06	2026-10-06	
 374320	DARK SOULS™ III	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
@@ -79,17 +82,18 @@ id	name	status	sources	firstSeen	lastSeen	reason
 376210	The Isle	pending	轻恐怖合作	2026-10-06	2026-10-06	
 379720	DOOM	pending	轻恐怖合作	2026-10-06	2026-10-06	
 381210	Dead by Daylight	pending	在线合作、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
-386940	Ultimate Chicken Horse	pending	双人对抗、在线合作、本地合作、欢乐游戏	2026-10-06	2026-10-06	
+386940	Ultimate Chicken Horse	included	双人对抗、在线合作、本地合作、欢乐游戏	2026-10-06	2026-10-06	
 387990	Scrap Mechanic	pending	欢乐游戏	2026-10-06	2026-10-06	
 393380	Squad	pending	在线合作	2026-10-06	2026-10-06	
 394510	HELLDIVERS™ Dive Harder Edition	pending	本地合作	2026-10-06	2026-10-06	
 400750	Call to Arms - Gates of Hell: Ostfront	pending	在线合作	2026-10-06	2026-10-06	
 405310	LEGO® MARVEL's Avengers	pending	双人解谜、本地合作、欢乐游戏	2026-10-06	2026-10-06	
 410900	Forts	pending	欢乐游戏	2026-10-06	2026-10-06	
-413150	Stardew Valley	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
+413150	Stardew Valley	included	热销游戏、热门新品	2026-10-06	2026-10-06	
 414700	Outlast 2	pending	双人合作、轻恐怖合作	2026-10-06	2026-10-06	
+427520	Factorio	included	人工核验	2026-10-06	2026-10-06	
 427730	Who's Your Daddy?!	pending	欢乐游戏	2026-10-06	2026-10-06	
-431240	Golf With Your Friends	pending	双人对抗	2026-10-06	2026-10-06	
+431240	Golf With Your Friends	included	双人对抗	2026-10-06	2026-10-06	
 434650	Lost Castle / 失落城堡	pending	双人对抗	2026-10-06	2026-10-06	
 435150	Divinity: Original Sin 2 - Definitive Edition	pending	本地合作	2026-10-06	2026-10-06	
 437920	Tricky Towers	pending	双人对抗	2026-10-06	2026-10-06	
@@ -102,13 +106,14 @@ id	name	status	sources	firstSeen	lastSeen	reason
 469820	Genital Jousting	pending	本地合作、欢乐游戏	2026-10-06	2026-10-06	
 470220	UNO	pending	双人对抗	2026-10-06	2026-10-06	
 476600	Call of Duty®: WWII	pending	轻恐怖合作	2026-10-06	2026-10-06	
-477160	Human Fall Flat	pending	双人解谜、本地合作、欢乐游戏、热销游戏、热门新品	2026-10-06	2026-10-06	
+477160	Human Fall Flat	included	双人解谜、本地合作、欢乐游戏、热销游戏、热门新品	2026-10-06	2026-10-06	
 489830	The Elder Scrolls V: Skyrim Special Edition	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
-493520	GTFO	pending	轻恐怖合作	2026-10-06	2026-10-06	
+493520	GTFO	included	轻恐怖合作	2026-10-06	2026-10-06	
 495420	State of Decay 2: Juggernaut Edition	pending	双人合作、轻恐怖合作	2026-10-06	2026-10-06	
 512900	Streets of Rogue	pending	本地合作	2026-10-06	2026-10-06	
 513710	SCUM	pending	在线合作	2026-10-06	2026-10-06	
 518790	theHunter: Call of the Wild™	pending	在线合作、热门新品	2026-10-06	2026-10-06	
+526870	Satisfactory	included	人工核验	2026-10-06	2026-10-06	
 527230	For The King	pending	本地合作	2026-10-06	2026-10-06	
 534380	Dying Light 2 Stay Human: Reloaded Edition	pending	双人合作、轻恐怖合作	2026-10-06	2026-10-06	
 535930	Two Point Hospital	pending	欢乐游戏	2026-10-06	2026-10-06	
@@ -116,7 +121,7 @@ id	name	status	sources	firstSeen	lastSeen	reason
 552500	Warhammer: Vermintide 2	pending	双人合作	2026-10-06	2026-10-06	
 552990	World of Warships	pending	在线合作	2026-10-06	2026-10-06	
 553640	ICEY	pending	热销游戏	2026-10-06	2026-10-06	
-553850	HELLDIVERS™ 2	pending	双人合作、在线合作、热销游戏、热门新品	2026-10-06	2026-10-06	
+553850	HELLDIVERS™ 2	included	双人合作、在线合作、热销游戏、热门新品	2026-10-06	2026-10-06	
 568220	Lobotomy Corporation | Monster Management Simulation	pending	热销游戏	2026-10-06	2026-10-06	
 572890	Pikuniku	pending	双人解谜、本地合作	2026-10-06	2026-10-06	
 578080	PUBG: BATTLEGROUNDS	pending	双人合作、在线合作、热销游戏、热门新品	2026-10-06	2026-10-06	
@@ -126,24 +131,25 @@ id	name	status	sources	firstSeen	lastSeen	reason
 594650	Hunt: Showdown 1896	pending	在线合作、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
 597170	Clone Drone in the Danger Zone	pending	欢乐游戏	2026-10-06	2026-10-06	
 602960	Barotrauma	pending	轻恐怖合作	2026-10-06	2026-10-06	
-617290	Remnant: From the Ashes	pending	轻恐怖合作	2026-10-06	2026-10-06	
+617290	Remnant: From the Ashes	included	轻恐怖合作	2026-10-06	2026-10-06	
 618140	Barro	pending	双人对抗	2026-10-06	2026-10-06	
 627270	Injustice™ 2	pending	双人对抗	2026-10-06	2026-10-06	
-632360	Risk of Rain 2	pending	双人合作、在线合作	2026-10-06	2026-10-06	
+632360	Risk of Rain 2	included	双人合作、在线合作	2026-10-06	2026-10-06	
 641990	The Escapists 2	pending	双人合作、双人解谜、本地合作、欢乐游戏	2026-10-06	2026-10-06	
 647830	LEGO® Marvel Super Heroes 2	pending	双人解谜、本地合作	2026-10-06	2026-10-06	
-648800	Raft	pending	在线合作、热销游戏、热门新品、生存合作	2026-10-06	2026-10-06	需补充明确的双人开局人数与完整主线依据。
-673750	Super Bunny Man	pending	双人对抗、在线合作、本地合作、欢乐游戏	2026-10-06	2026-10-06	
+648800	Raft	included	在线合作、热销游戏、热门新品、生存合作	2026-10-06	2026-10-06	
+673750	Super Bunny Man	included	双人对抗、在线合作、本地合作、欢乐游戏	2026-10-06	2026-10-06	
 674940	Stick Fight: The Game	included	人工核验、双人对抗、本地合作、欢乐游戏	2026-10-06	2026-10-06	
 677160	We Were Here Too	included	人工核验、双人解谜	2026-10-06	2026-10-06	
 678950	DRAGON BALL FighterZ	pending	双人对抗	2026-10-06	2026-10-06	
-690640	Trine 4: The Nightmare Prince	pending	双人解谜、本地合作	2026-10-06	2026-10-06	
+690640	Trine 4: The Nightmare Prince	included	双人解谜、本地合作	2026-10-06	2026-10-06	
+692890	Roboquest	included	人工核验	2026-10-06	2026-10-06	
 694280	Zombie Army 4: Dead War	pending	轻恐怖合作	2026-10-06	2026-10-06	
 699130	World War Z	pending	在线合作、轻恐怖合作	2026-10-06	2026-10-06	
 701160	Kingdom Two Crowns	pending	双人合作、在线合作、热销游戏、热门新品	2026-10-06	2026-10-06	
 710920	Darksiders Genesis	pending	双人解谜	2026-10-06	2026-10-06	
 728880	Overcooked! 2	included	人工核验、双人合作、在线合作、本地合作、欢乐游戏、热销游戏、热门新品	2026-10-06	2026-10-06	
-739630	Phasmophobia	pending	在线合作、轻恐怖合作	2026-10-06	2026-10-06	需补核私人双人开局、地图难度及语音要求，官方描述最多四人不能单独作为双人核验结论。
+739630	Phasmophobia	included	在线合作、轻恐怖合作	2026-10-06	2026-10-06	
 760640	Tennis Elbow 4	pending	双人对抗	2026-10-06	2026-10-06	
 774181	Rhythm Doctor	pending	本地合作	2026-10-06	2026-10-06	
 774791	Surgeon Simulator 2	pending	双人解谜	2026-10-06	2026-10-06	
@@ -154,14 +160,14 @@ id	name	status	sources	firstSeen	lastSeen	reason
 814380	Sekiro™: Shadows Die Twice - GOTY Edition	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
 815370	Green Hell	pending	在线合作	2026-10-06	2026-10-06	
 831560	WARRIORS OROCHI 4	pending	本地合作	2026-10-06	2026-10-06	
-837470	Untitled Goose Game	pending	双人解谜、本地合作、欢乐游戏	2026-10-06	2026-10-06	
+837470	Untitled Goose Game	included	双人解谜、本地合作、欢乐游戏	2026-10-06	2026-10-06	
 850190	Goat Simulator 3	pending	本地合作、欢乐游戏	2026-10-06	2026-10-06	
-850320	PHOGS!	pending	双人解谜	2026-10-06	2026-10-06	
+850320	PHOGS!	included	双人解谜	2026-10-06	2026-10-06	
 859570	Secret Neighbor: Hello Neighbor Multiplayer	pending	双人解谜	2026-10-06	2026-10-06	
 860510	Little Nightmares II	pending	双人合作、双人解谜、轻恐怖合作	2026-10-06	2026-10-06	
 865360	We Were Here Together	included	人工核验、双人解谜、轻恐怖合作	2026-10-06	2026-10-06	
 872670	SCP: 5K	pending	轻恐怖合作	2026-10-06	2026-10-06	
-880940	Pummel Party	pending	在线合作、本地合作、欢乐游戏、热销游戏、热门新品	2026-10-06	2026-10-06	
+880940	Pummel Party	included	在线合作、本地合作、欢乐游戏、热销游戏、热门新品	2026-10-06	2026-10-06	
 892970	Valheim	included	人工核验、在线合作、热门新品	2026-10-06	2026-10-06	
 905340	Heave Ho	included	人工核验	2026-10-06	2026-10-06	
 909080	Cube Escape: Paradox	pending	双人解谜、轻恐怖合作	2026-10-06	2026-10-06	
@@ -169,33 +175,35 @@ id	name	status	sources	firstSeen	lastSeen	reason
 920210	LEGO® Star Wars™: The Skywalker Saga	pending	双人解谜、本地合作	2026-10-06	2026-10-06	
 924970	Back 4 Blood	pending	轻恐怖合作	2026-10-06	2026-10-06	
 934700	Dead Island 2	pending	双人合作、轻恐怖合作	2026-10-06	2026-10-06	
-944080	Pode	pending	双人解谜	2026-10-06	2026-10-06	
+944080	Pode	included	双人解谜	2026-10-06	2026-10-06	
 945360	Among Us	excluded	初始候选、双人对抗、欢乐游戏	2026-10-06	2026-10-06	标准主要玩法至少四名玩家，两名朋友不能独立完成；依据 https://store.steampowered.com/app/945360/
 949230	Cities: Skylines II	pending	热销游戏	2026-10-06	2026-10-06	
 952060	Resident Evil 3	pending	轻恐怖合作	2026-10-06	2026-10-06	
 960090	Bloons TD 6	pending	欢乐游戏	2026-10-06	2026-10-06	
 960990	Beyond: Two Souls	pending	双人合作、轻恐怖合作	2026-10-06	2026-10-06	
-962130	Grounded	pending	在线合作、欢乐游戏、轻恐怖合作	2026-10-06	2026-10-06	
+962130	Grounded	included	在线合作、欢乐游戏、轻恐怖合作	2026-10-06	2026-10-06	
 965680	Boomerang Fu	pending	双人对抗	2026-10-06	2026-10-06	
 967050	Pacify	pending	轻恐怖合作	2026-10-06	2026-10-06	
-972660	Spiritfarer®: Farewell Edition	pending	本地合作	2026-10-06	2026-10-06	
+972660	Spiritfarer®: Farewell Edition	included	本地合作	2026-10-06	2026-10-06	
 976310	Mortal Kombat 11	pending	轻恐怖合作	2026-10-06	2026-10-06	
 976730	Halo: The Master Chief Collection	pending	轻恐怖合作	2026-10-06	2026-10-06	
 979690	The Ascent	pending	本地合作	2026-10-06	2026-10-06	
+985890	Streets of Rage 4	included	人工核验	2026-10-06	2026-10-06	
 990080	Hogwarts Legacy	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
 991780	Notes of Soul	pending	轻恐怖合作	2026-10-06	2026-10-06	
-996770	Moving Out	pending	双人解谜、本地合作、欢乐游戏	2026-10-06	2026-10-06	
+996770	Moving Out	included	双人解谜、本地合作、欢乐游戏	2026-10-06	2026-10-06	
 1000360	Hellish Quart	pending	双人对抗	2026-10-06	2026-10-06	
 1003480	Fireboy & Watergirl: Elements	pending	双人解谜	2026-10-06	2026-10-06	
 1003590	Tetris® Effect: Connected	pending	双人对抗	2026-10-06	2026-10-06	
-1016920	Unrailed!	pending	本地合作	2026-10-06	2026-10-06	
+1004490	Tools Up!	included	人工核验	2026-10-06	2026-10-06	
+1016920	Unrailed!	included	本地合作	2026-10-06	2026-10-06	
 1020790	NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS	pending	本地合作	2026-10-06	2026-10-06	
 1021770	Wanba Warriors	pending	双人对抗	2026-10-06	2026-10-06	
 1038250	DIRT 5	pending	双人对抗	2026-10-06	2026-10-06	
 1041320	Lords Mobile: Kingdom Wars	pending	欢乐游戏	2026-10-06	2026-10-06	
 1054490	Wingspan	pending	双人对抗、本地合作	2026-10-06	2026-10-06	
 1057090	Ori and the Will of the Wisps	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
-1071870	Biped	pending	双人解谜、本地合作、欢乐游戏	2026-10-06	2026-10-06	
+1071870	Biped	included	双人解谜、本地合作、欢乐游戏	2026-10-06	2026-10-06	
 1072420	DRAGON QUEST BUILDERS™ 2	pending	双人合作	2026-10-06	2026-10-06	
 1085510	Garfield Kart - Furious Racing	pending	双人对抗	2026-10-06	2026-10-06	
 1085660	Destiny 2	pending	双人合作	2026-10-06	2026-10-06	
@@ -206,7 +214,7 @@ id	name	status	sources	firstSeen	lastSeen	reason
 1124180	Rail Route	pending	双人解谜	2026-10-06	2026-10-06	
 1138850	Heavenly Bodies	pending	双人解谜	2026-10-06	2026-10-06	
 1142710	Total War: WARHAMMER III	pending	双人合作、在线合作、热销游戏、热门新品	2026-10-06	2026-10-06	
-1144200	Ready or Not	pending	双人合作、热销游戏、轻恐怖合作	2026-10-06	2026-10-06	
+1144200	Ready or Not	included	双人合作、热销游戏、轻恐怖合作	2026-10-06	2026-10-06	
 1151340	Fallout 76	pending	轻恐怖合作	2026-10-06	2026-10-06	
 1154030	Titan Quest II	pending	双人合作	2026-10-06	2026-10-06	
 1158310	Crusader Kings III	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
@@ -219,7 +227,9 @@ id	name	status	sources	firstSeen	lastSeen	reason
 1190000	Car Mechanic Simulator 2021	pending	双人解谜	2026-10-06	2026-10-06	
 1190970	House Flipper 2	pending	双人合作、在线合作	2026-10-06	2026-10-06	
 1203220	NARAKA: BLADEPOINT	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
+1203620	Enshrouded	included	人工核验	2026-10-06	2026-10-06	
 1206610	Rubber Bandits	pending	双人对抗、本地合作	2026-10-06	2026-10-06	
+1217060	Gunfire Reborn	included	人工核验	2026-10-06	2026-10-06	
 1222140	Detroit: Become Human	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
 1222700	A Way Out	included	人工核验、在线合作、本地合作	2026-10-06	2026-10-06	
 1225560	Unravel	pending	双人解谜	2026-10-06	2026-10-06	
@@ -238,16 +248,17 @@ id	name	status	sources	firstSeen	lastSeen	reason
 1260320	Party Animals	pending	双人对抗、在线合作、本地合作、欢乐游戏、热销游戏、热门新品	2026-10-06	2026-10-06	
 1271700	HOT WHEELS UNLEASHED™	pending	双人对抗	2026-10-06	2026-10-06	
 1273400	Construction Simulator	pending	在线合作	2026-10-06	2026-10-06	
-1274570	DEVOUR	pending	双人解谜、在线合作、轻恐怖合作	2026-10-06	2026-10-06	
+1274570	DEVOUR	included	双人解谜、在线合作、轻恐怖合作	2026-10-06	2026-10-06	
 1280190	Falling Frontier	pending	热门愿望单	2026-10-06	2026-10-06	
 1280930	Astral Ascent	pending	本地合作	2026-10-06	2026-10-06	
-1282100	REMNANT II®	pending	双人合作、在线合作、轻恐怖合作	2026-10-06	2026-10-06	
+1282100	REMNANT II®	included	双人合作、在线合作、轻恐怖合作	2026-10-06	2026-10-06	
 1285190	Borderlands 4	pending	双人合作、在线合作、欢乐游戏	2026-10-06	2026-10-06	
 1286580	Ship of Fools	included	人工核验、本地合作、欢乐游戏	2026-10-06	2026-10-06	
+1286680	Tiny Tina's Wonderlands	included	人工核验	2026-10-06	2026-10-06	
 1289670	EA Play	pending	双人解谜	2026-10-06	2026-10-06	
 1290000	PowerWash Simulator	pending	欢乐游戏	2026-10-06	2026-10-06	
-1302240	Labyrinthine	pending	双人解谜	2026-10-06	2026-10-06	
-1304930	The Outlast Trials	pending	双人合作、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
+1302240	Labyrinthine	included	双人解谜	2026-10-06	2026-10-06	
+1304930	The Outlast Trials	included	双人合作、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
 1307090	Barro Racing	pending	双人对抗	2026-10-06	2026-10-06	
 1313230	Beautiful Light	pending	热门愿望单	2026-10-06	2026-10-06	
 1324530	Warhammer 40,000: Shootas, Blood & Teef	pending	双人对抗	2026-10-06	2026-10-06	
@@ -261,7 +272,7 @@ id	name	status	sources	firstSeen	lastSeen	reason
 1341290	We Were Here Forever	included	人工核验、双人解谜、轻恐怖合作	2026-10-06	2026-10-06	
 1346010	RiMS Racing	pending	双人对抗	2026-10-06	2026-10-06	
 1361210	Warhammer 40,000: Darktide	pending	轻恐怖合作	2026-10-06	2026-10-06	
-1361510	Teenage Mutant Ninja Turtles: Shredder's Revenge	pending	本地合作	2026-10-06	2026-10-06	
+1361510	Teenage Mutant Ninja Turtles: Shredder's Revenge	included	本地合作	2026-10-06	2026-10-06	
 1364780	Street Fighter™ 6	pending	双人对抗、热销游戏、热门新品	2026-10-06	2026-10-06	
 1367080	MOBILE SUIT GUNDAM BATTLE OPERATION 2	pending	双人合作	2026-10-06	2026-10-06	
 1371980	No Rest for the Wicked	pending	在线合作	2026-10-06	2026-10-06	
@@ -273,8 +284,8 @@ id	name	status	sources	firstSeen	lastSeen	reason
 1416070	beta decay	pending	热门愿望单	2026-10-06	2026-10-06	
 1422450	Deadlock	pending	热门愿望单	2026-10-06	2026-10-06	
 1426210	It Takes Two	excluded	初始候选、双人合作、双人解谜、在线合作、本地合作、热销游戏、热门新品	2026-10-06	2026-10-06	以夫妻关系与婚姻修复为核心叙事，不符合项目收录约定。
-1435790	Escape Simulator	pending	双人解谜	2026-10-06	2026-10-06	
-1436700	Trine 5: A Clockwork Conspiracy	pending	本地合作	2026-10-06	2026-10-06	
+1435790	Escape Simulator	included	双人解谜	2026-10-06	2026-10-06	
+1436700	Trine 5: A Clockwork Conspiracy	included	本地合作	2026-10-06	2026-10-06	
 1445790	Make Way	pending	双人对抗	2026-10-06	2026-10-06	
 1446780	MONSTER HUNTER RISE	included	人工核验、在线合作、热销游戏、热门新品	2026-10-06	2026-10-06	
 1449850	Yu-Gi-Oh! Master Duel	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
@@ -284,12 +295,14 @@ id	name	status	sources	firstSeen	lastSeen	reason
 1478500	Big Walk	included	人工核验、欢乐游戏、热销游戏、热门新品	2026-10-06	2026-10-06	
 1483870	Draw & Guess	pending	双人解谜、欢乐游戏	2026-10-06	2026-10-06	
 1498570	THE KING OF FIGHTERS XV	pending	双人对抗	2026-10-06	2026-10-06	
-1509960	PICO PARK	pending	双人解谜、本地合作、欢乐游戏、轻恐怖合作	2026-10-06	2026-10-06	
+1509960	PICO PARK	included	双人解谜、本地合作、欢乐游戏、轻恐怖合作	2026-10-06	2026-10-06	
 1515210	The Past Within	included	人工核验、双人解谜、本地合作、轻恐怖合作	2026-10-06	2026-10-06	
+1522820	Orcs Must Die! 3	included	人工核验	2026-10-06	2026-10-06	
 1538550	LEGO® Voyagers	pending	双人解谜	2026-10-06	2026-10-06	
 1551360	Forza Horizon 5	pending	双人合作、在线合作、热销游戏、热门新品	2026-10-06	2026-10-06	
 1551980	Clive Barker's Hellraiser: Revival	pending	热门愿望单	2026-10-06	2026-10-06	
 1557740	ROUNDS	included	人工核验、双人对抗	2026-10-06	2026-10-06	
+1562420	FOREWARNED	included	人工核验	2026-10-06	2026-10-06	
 1568590	Goose Goose Duck	pending	本地合作、欢乐游戏	2026-10-06	2026-10-06	
 1575940	Sins of a Solar Empire II	pending	双人合作	2026-10-06	2026-10-06	
 1577120	The Quarry	pending	轻恐怖合作	2026-10-06	2026-10-06	
@@ -300,10 +313,11 @@ id	name	status	sources	firstSeen	lastSeen	reason
 1599660	Sackboy™: A Big Adventure	pending	本地合作	2026-10-06	2026-10-06	
 1607680	Bread & Fred	included	人工核验	2026-10-06	2026-10-06	
 1614330	Crowsworn	pending	热门愿望单	2026-10-06	2026-10-06	
-1623730	Palworld	pending	在线合作、热销游戏、热门新品	2026-10-06	2026-10-06	
-1641700	Moving Out 2	pending	双人合作、双人解谜、本地合作	2026-10-06	2026-10-06	
+1621690	Core Keeper	included	人工核验	2026-10-06	2026-10-06	
+1623730	Palworld	included	在线合作、热销游戏、热门新品	2026-10-06	2026-10-06	
+1641700	Moving Out 2	included	双人合作、双人解谜、本地合作	2026-10-06	2026-10-06	
 1650010	RIDE 5	pending	双人对抗	2026-10-06	2026-10-06	
-1659040	HITMAN World of Assassination	pending	欢乐游戏	2026-10-06	2026-10-06	
+1659040	HITMAN World of Assassination	pending	欢乐游戏、热销游戏	2026-10-06	2026-10-06	
 1659420	UNCHARTED™: Legacy of Thieves Collection	pending	欢乐游戏	2026-10-06	2026-10-06	
 1672970	Minecraft Dungeons	pending	欢乐游戏、热门新品	2026-10-06	2026-10-06	
 1676840	For The King II	pending	双人合作、双人对抗、本地合作	2026-10-06	2026-10-06	
@@ -337,18 +351,19 @@ id	name	status	sources	firstSeen	lastSeen	reason
 1904480	Absolum	pending	本地合作	2026-10-06	2026-10-06	
 1912410	Minecraft Dungeons II	pending	双人合作	2026-10-06	2026-10-06	
 1922560	Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition	pending	双人合作、欢乐游戏	2026-10-06	2026-10-06	
-1929610	Demonologist	pending	轻恐怖合作	2026-10-06	2026-10-06	
+1929610	Demonologist	included	轻恐怖合作	2026-10-06	2026-10-06	
 1940080	Rooted	pending	热门愿望单	2026-10-06	2026-10-06	
 1942280	Brotato	pending	本地合作	2026-10-06	2026-10-06	
-1943950	Escape the Backrooms	pending	在线合作、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
+1943950	Escape the Backrooms	included	在线合作、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
 1952620	The Lost Wild	pending	热门愿望单	2026-10-06	2026-10-06	
 1958600	Barro F22	pending	双人对抗	2026-10-06	2026-10-06	
 1962700	Subnautica 2	pending	双人合作、轻恐怖合作	2026-10-06	2026-10-06	
-1966720	Lethal Company	pending	轻恐怖合作	2026-10-06	2026-10-06	
+1966720	Lethal Company	included	轻恐怖合作	2026-10-06	2026-10-06	
 1969870	Battle Teams 2	pending	双人合作	2026-10-06	2026-10-06	
 1971870	Mortal Kombat 1	pending	双人对抗、本地合作	2026-10-06	2026-10-06	
 1973530	Limbus Company	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
-1987080	Inside the Backrooms	pending	双人解谜、轻恐怖合作	2026-10-06	2026-10-06	
+1982340	Blanc	included	人工核验	2026-10-06	2026-10-06	
+1987080	Inside the Backrooms	included	双人解谜、轻恐怖合作	2026-10-06	2026-10-06	
 2001120	Split Fiction	included	人工核验、双人合作、在线合作、本地合作、欢乐游戏、热销游戏、热门新品	2026-10-06	2026-10-06	
 2012320	Parallel Experiment	pending	双人解谜	2026-10-06	2026-10-06	
 2050420	ARK 2	pending	热门愿望单	2026-10-06	2026-10-06	
@@ -362,11 +377,12 @@ id	name	status	sources	firstSeen	lastSeen	reason
 2076010	UNDER NIGHT IN-BIRTH II Sys:Celes	pending	双人对抗	2026-10-06	2026-10-06	
 2085540	Stick It to the Stickman	pending	欢乐游戏	2026-10-06	2026-10-06	
 2090210	Threads of Time	pending	热门愿望单	2026-10-06	2026-10-06	
+2098350	Escape Memoirs: Mini Stories	included	人工核验	2026-10-06	2026-10-06	
 2109770	Kingmakers	pending	热门愿望单	2026-10-06	2026-10-06	
 2119830	MISERY	pending	轻恐怖合作	2026-10-06	2026-10-06	
 2129530	REANIMAL	pending	双人解谜、在线合作、本地合作、轻恐怖合作	2026-10-06	2026-10-06	
 2139460	Once Human	pending	在线合作	2026-10-06	2026-10-06	
-2141730	Backrooms: Escape Together	pending	双人解谜、轻恐怖合作	2026-10-06	2026-10-06	
+2141730	Backrooms: Escape Together	included	双人解谜、轻恐怖合作	2026-10-06	2026-10-06	
 2153350	Brothers: A Tale of Two Sons Remake	pending	双人解谜	2026-10-06	2026-10-06	
 2153760	Stronghold 4	pending	热门愿望单	2026-10-06	2026-10-06	
 2157560	Granblue Fantasy Versus: Rising	pending	双人对抗	2026-10-06	2026-10-06	
@@ -442,7 +458,7 @@ id	name	status	sources	firstSeen	lastSeen	reason
 2622380	ELDEN RING NIGHTREIGN	pending	在线合作	2026-10-06	2026-10-06	
 2625420	Drive Beyond Horizons	pending	轻恐怖合作	2026-10-06	2026-10-06	
 2638890	Onimusha: Way of the Sword	pending	热门新品	2026-10-06	2026-10-06	
-2644470	PICO PARK 2	pending	双人合作、双人解谜、本地合作、欢乐游戏、轻恐怖合作	2026-10-06	2026-10-06	
+2644470	PICO PARK 2	included	双人合作、双人解谜、本地合作、欢乐游戏、轻恐怖合作	2026-10-06	2026-10-06	
 2649560	Persona 6	pending	热门愿望单	2026-10-06	2026-10-06	
 2651280	Marvel's Spider-Man 2	pending	双人合作、热销游戏、热门新品	2026-10-06	2026-10-06	
 2661300	Grounded 2	pending	双人合作、在线合作、轻恐怖合作	2026-10-06	2026-10-06	
@@ -475,8 +491,8 @@ id	name	status	sources	firstSeen	lastSeen	reason
 2871520	Deep Dish Dungeon	pending	热门愿望单	2026-10-06	2026-10-06	
 2873440	Chrono Odyssey	pending	热门愿望单	2026-10-06	2026-10-06	
 2878980	NBA 2K25	pending	双人对抗	2026-10-06	2026-10-06	
-2879840	Escape Simulator 2	pending	双人合作、双人解谜、在线合作	2026-10-06	2026-10-06	
-2881650	Content Warning	pending	欢乐游戏、轻恐怖合作	2026-10-06	2026-10-06	
+2879840	Escape Simulator 2	included	双人合作、双人解谜、在线合作	2026-10-06	2026-10-06	
+2881650	Content Warning	included	欢乐游戏、轻恐怖合作	2026-10-06	2026-10-06	
 2887580	Active Matter	pending	轻恐怖合作	2026-10-06	2026-10-06	
 2918500	Cozy Island	pending	欢乐游戏	2026-10-06	2026-10-06	
 2924520	ONTOS	pending	热门愿望单	2026-10-06	2026-10-06	
@@ -507,7 +523,7 @@ id	name	status	sources	firstSeen	lastSeen	reason
 3219030	Planet Zoo 2	pending	欢乐游戏	2026-10-06	2026-10-06	
 3230960	EXODUS	pending	热门愿望单	2026-10-06	2026-10-06	
 3240220	Grand Theft Auto V Enhanced	pending	欢乐游戏、热销游戏、热门新品	2026-10-06	2026-10-06	
-3241660	R.E.P.O.	pending	在线合作、欢乐游戏、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
+3241660	R.E.P.O.	included	在线合作、欢乐游戏、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
 3242750	Level Devil	pending	双人对抗	2026-10-06	2026-10-06	
 3255110	Grave Seasons	pending	热门愿望单	2026-10-06	2026-10-06	
 3259780	FINAL FANTASY RESONANCE	pending	热门愿望单	2026-10-06	2026-10-06	
@@ -532,7 +548,7 @@ id	name	status	sources	firstSeen	lastSeen	reason
 3489700	Stellar Blade™	pending	热销游戏、热门新品	2026-10-06	2026-10-06	
 3513600	Scarlet Idol	pending	双人解谜、本地合作、轻恐怖合作	2026-10-06	2026-10-06	
 3517740	Frostrail	pending	热门愿望单	2026-10-06	2026-10-06	
-3527290	PEAK	pending	在线合作、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
+3527290	PEAK	included	在线合作、热销游戏、热门新品、轻恐怖合作	2026-10-06	2026-10-06	
 3558670	Tomb Raider: Legacy of Atlantis	pending	热门愿望单	2026-10-06	2026-10-06	
 3569500	Card Shop Simulator Multiplayer	pending	欢乐游戏	2026-10-06	2026-10-06	
 3595230	Call of Duty®: Modern Warfare® II	pending	双人合作	2026-10-06	2026-10-06	
@@ -604,6 +620,7 @@ id	name	status	sources	firstSeen	lastSeen	reason
 4401160	Fireboy & Watergirl and Friends	pending	双人解谜	2026-10-06	2026-10-06	
 4412320	Dumb Ways to Build	pending	欢乐游戏	2026-10-06	2026-10-06	
 4435490	Call of Duty®: Modern Warfare® 4	pending	在线合作、热销游戏、热门愿望单	2026-10-06	2026-10-06	
+4532140	HUSHED	pending	轻恐怖合作	2026-10-06	2026-10-06	
 4534960	Dear Passengers	pending	双人合作、热门愿望单	2026-10-06	2026-10-06	
 4560660	Eslabong	pending	本地合作	2026-10-06	2026-10-06	
 4570720	DragonSword : Awakening	pending	在线合作	2026-10-06	2026-10-06	

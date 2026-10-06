@@ -6,7 +6,7 @@
       "key": "two-player",
       "name": "双人合作",
       "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685&term=two",
-      "total": 6418,
+      "total": 6417,
       "sampled": 100,
       "status": "ok"
     },
@@ -14,7 +14,7 @@
       "key": "online",
       "name": "在线合作",
       "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3843",
-      "total": 10491,
+      "total": 10490,
       "sampled": 100,
       "status": "ok"
     },
@@ -62,7 +62,7 @@
       "key": "sellers",
       "name": "热销游戏",
       "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=topsellers",
-      "total": 6824,
+      "total": 6834,
       "sampled": 99,
       "status": "ok"
     },
@@ -70,7 +70,7 @@
       "key": "new",
       "name": "热门新品",
       "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularnew",
-      "total": 404,
+      "total": 402,
       "sampled": 100,
       "status": "ok"
     },
@@ -83,7 +83,7 @@
       "status": "ok"
     }
   ],
-  "discovered": 623,
-  "added": 0,
-  "pending": 598
+  "discovered": 622,
+  "added": 1,
+  "pending": 549
 }

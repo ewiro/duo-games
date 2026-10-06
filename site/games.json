@@ -1011,6 +1011,2230 @@
         "checkedAt": "2026-10-06"
       },
       "priceRefreshFailed": false
+    },
+    {
+      "id": 1943950,
+      "name": "Escape the Backrooms",
+      "aliases": [
+        "逃离后室"
+      ],
+      "category": [
+        "恐怖合作",
+        "探索协作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 3,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人贴近行动、轮流认路和报实体位置，一起搜物品与机关；所有队员都要活着到出口，走散时更考验沟通。",
+      "evidenceUrl": "https://store.steampowered.com/app/1943950/",
+      "evidenceNote": "商店明确列出 1–4 人合作，并说明所有队员必须活着抵达出口；近距离语音可能被实体听见。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含追逐与惊吓",
+      "steamUrl": "https://store.steampowered.com/app/1943950/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg?t=1790963343",
+      "price": {
+        "currency": "CNY",
+        "initial": 3700,
+        "final": 2960,
+        "discountPercent": 20,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1987080,
+      "name": "Inside the Backrooms",
+      "aliases": [
+        "深入后室"
+      ],
+      "category": [
+        "恐怖合作",
+        "双人解谜"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人汇总房间线索、分头找道具，再一起避开实体解机关；可以私下推进，但少一人牵制时搜索和救援更紧张。",
+      "evidenceUrl": "https://store.steampowered.com/app/1987080/",
+      "evidenceNote": "商店玩法说明最多四人共同解不同后室关卡谜题，并提供单人玩法。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含追逐与惊吓",
+      "steamUrl": "https://store.steampowered.com/app/1987080/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1987080/51dab996a62cacdc321c349b5f6268b6ddf5000d/header.jpg?t=1782677111",
+      "price": {
+        "currency": "CNY",
+        "initial": 3900,
+        "final": 3510,
+        "discountPercent": 10,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 2141730,
+      "name": "Backrooms: Escape Together",
+      "aliases": [
+        "后室一起逃离"
+      ],
+      "category": [
+        "恐怖合作",
+        "探索协作"
+      ],
+      "players": "1–6 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 2,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人用近距离语音报路线和实体动向，在随机布局里找出口；人数少时每人搜查范围更大，适合边认路边慢慢推进。",
+      "evidenceUrl": "https://store.steampowered.com/app/2141730/",
+      "evidenceNote": "商店明确列出 1–6 人、可单独或与最多五名朋友游玩程序生成关卡。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含追逐与惊吓",
+      "steamUrl": "https://store.steampowered.com/app/2141730/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141730/header.jpg?t=1780282746",
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 3150,
+        "discountPercent": 25,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 739630,
+      "name": "Phasmophobia",
+      "aliases": [
+        "恐鬼症"
+      ],
+      "category": [
+        "恐怖合作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人分配取证设备、互报鬼的反应，轮流进屋和盯监控；建议先选小地图，大地图搬设备和救场负担更重。",
+      "evidenceUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4437747060829766788",
+      "evidenceNote": "官方开发日志明确提及可把大厅人数限制设为双人；当前商店说明最多四人调查。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含惊吓与追逐",
+      "steamUrl": "https://store.steampowered.com/app/739630/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1789487643",
+      "price": {
+        "currency": "CNY",
+        "initial": 6800,
+        "final": 4760,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1929610,
+      "name": "Demonologist",
+      "aliases": [
+        "恶魔学家"
+      ],
+      "category": [
+        "恐怖合作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人分别收集证据和准备驱魔物品，再核对鬼种执行驱魔；少人时装备搬运与遇袭风险更集中，适合能接受强惊吓的搭档。",
+      "evidenceUrl": "https://store.steampowered.com/app/1929610/",
+      "evidenceNote": "商店明确说明至少一人、最多四人，识别并驱除诅咒场所的灵体。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含强惊吓",
+      "steamUrl": "https://store.steampowered.com/app/1929610/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg?t=1785746147",
+      "price": {
+        "currency": "CNY",
+        "initial": 7600,
+        "final": 2280,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1274570,
+      "name": "DEVOUR",
+      "aliases": [
+        "吞噬"
+      ],
+      "category": [
+        "恐怖合作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人记住祭品和补给位置，一人牵制追逐者、另一人完成仪式；后期速度和压力上升，少人救援容错更低。",
+      "evidenceUrl": "https://store.steampowered.com/app/1274570/",
+      "evidenceNote": "商店明确列出 1–4 人合作，仪式推进会让追逐者更危险。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含追逐与血腥",
+      "steamUrl": "https://store.steampowered.com/app/1274570/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/bb90f9fa36e4c35a5f28cdc38cf75b3eb5c39032/header.jpg?t=1765533474",
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 2100,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1562420,
+      "name": "FOREWARNED",
+      "aliases": [
+        "预先警告"
+      ],
+      "category": [
+        "恐怖合作",
+        "探索协作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人探墓、对照异常现象判断古灵，再商量带宝物撤离；少人时搬运和观察难兼顾，适合一人记录一人搜查。",
+      "evidenceUrl": "https://store.steampowered.com/app/1562420/",
+      "evidenceNote": "商店明确列出 1–4 人合作，在程序生成的埃及遗迹中探索与辨识古灵。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含惊吓与追逐",
+      "steamUrl": "https://store.steampowered.com/app/1562420/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562420/header.jpg?t=1715262452",
+      "price": {
+        "currency": "CNY",
+        "initial": 4300,
+        "final": 1720,
+        "discountPercent": 60,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1302240,
+      "name": "Labyrinthine",
+      "aliases": [
+        "迷宫探险"
+      ],
+      "category": [
+        "恐怖合作",
+        "双人解谜"
+      ],
+      "players": "1–8 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人用路标记分岔、汇总机关线索并避开怪物；故事可一起推进，随机大迷宫里双人搜集任务会更慢。",
+      "evidenceUrl": "https://store.steampowered.com/app/1302240/",
+      "evidenceNote": "商店明确列出 1–8 人在线合作，包含故事与随机案件两种模式。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含追逐与惊吓",
+      "steamUrl": "https://store.steampowered.com/app/1302240/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/header.jpg?t=1764093777",
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 2100,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1966720,
+      "name": "Lethal Company",
+      "aliases": [
+        "致命公司"
+      ],
+      "category": [
+        "恐怖合作",
+        "资源搜集"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人配合捡废品和撤离，一人可用飞船终端报路与开门；只剩一人进设施时风险高，配额压力下需要及时一起搜集。",
+      "evidenceUrl": "https://store.steampowered.com/app/1966720/",
+      "evidenceNote": "商店抢先体验说明可与最多四人游玩，终端导航与近距离语音是合作机制。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含惊吓与死亡",
+      "steamUrl": "https://store.steampowered.com/app/1966720/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 4200,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 2881650,
+      "name": "Content Warning",
+      "aliases": [
+        "内容警告"
+      ],
+      "category": [
+        "恐怖合作",
+        "欢乐协作"
+      ],
+      "players": "2–4 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作互坑",
+      "reason": "两人轮流掌镜和出镜，拍怪物与事故后把录像带回地面；只有一名搭档能救援，氧气和电量不足时要一起决定撤离。",
+      "evidenceUrl": "https://store.steampowered.com/app/2881650/",
+      "evidenceNote": "商店明确列出 2–4 人在线合作，以录制恐怖遭遇和上传录像为主要循环。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含追逐与惊吓",
+      "steamUrl": "https://store.steampowered.com/app/2881650/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg?t=1785137321",
+      "price": {
+        "currency": "CNY",
+        "initial": 3300,
+        "final": 2046,
+        "discountPercent": 38,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 3241660,
+      "name": "R.E.P.O.",
+      "aliases": [
+        "R.E.P.O.废品回收"
+      ],
+      "category": [
+        "恐怖合作",
+        "物理搬运"
+      ],
+      "players": "1–6 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作互坑",
+      "reason": "两人抬大件、商量转角和落点，尽量别把易碎物砸坏；双人可以跑完整回收循环，但都在搬货时没人专门望风。",
+      "evidenceUrl": "https://store.steampowered.com/app/3241660/",
+      "evidenceNote": "商店说明可单独或与最多五名朋友搬运物理物品，支持近距离语音。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含追逐与惊吓",
+      "steamUrl": "https://store.steampowered.com/app/3241660/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1778158882",
+      "price": {
+        "currency": "CNY",
+        "initial": 3500,
+        "final": 2275,
+        "discountPercent": 35,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 3527290,
+      "name": "PEAK",
+      "aliases": [
+        "山峰",
+        "攀登巅峰"
+      ],
+      "category": [
+        "探索协作",
+        "生存闯关"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作互坑",
+      "reason": "两人分配食物、绳索和体力，互相拉上岩壁或扶起倒地搭档；少一名后援时失误更难救，适合愿意反复爬山的两人。",
+      "evidenceUrl": "https://steamcommunity.com/app/3527290/discussions/0/592900478058155331/",
+      "evidenceNote": "商店说明单人或组队攀登；开发者在官方讨论区确认人数上限为四人。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含坠落与生存压力",
+      "steamUrl": "https://store.steampowered.com/app/3527290/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1790591892",
+      "price": {
+        "currency": "CNY",
+        "initial": 3300,
+        "final": 2046,
+        "discountPercent": 38,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1304930,
+      "name": "The Outlast Trials",
+      "aliases": [
+        "逃生试炼"
+      ],
+      "category": [
+        "恐怖合作",
+        "潜入协作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人一人牵制巡逻者、一人执行任务，互相治疗并规划藏身路线；两人能独立完成试炼，但失误后的救援选择较少。",
+      "evidenceUrl": "https://store.steampowered.com/app/1304930/",
+      "evidenceNote": "商店明确允许单人或两、三、四人组成队伍完成试炼。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含强恐怖、酷刑与血腥",
+      "steamUrl": "https://store.steampowered.com/app/1304930/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
+      "price": {
+        "currency": "CNY",
+        "initial": 13600,
+        "final": 1360,
+        "discountPercent": 90,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 648800,
+      "name": "Raft",
+      "aliases": [
+        "木筏求生"
+      ],
+      "category": [
+        "生存建造",
+        "探索协作"
+      ],
+      "players": "1 人起；联机人数随主机性能",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人分工钩物资、养殖净水、造船和探岛，再一起推进故事；没有陌生人也能玩，资源积累和远航适合长期存档。",
+      "evidenceUrl": "https://support.redbeetinteractive.com/hc/en-us/articles/360007318112-How-many-players-can-be-in-a-game",
+      "evidenceNote": "商店允许独自或与朋友推进冒险；官方 FAQ 说明联机人数取决于主机和网络，没有固定八人上限。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/648800/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "price": {
+        "currency": "CNY",
+        "initial": 7700,
+        "final": 5159,
+        "discountPercent": 33,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 962130,
+      "name": "Grounded",
+      "aliases": [
+        "禁闭求生"
+      ],
+      "category": [
+        "生存建造",
+        "探索协作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "跨平台"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人分工采集、建家和挡虫，再一起找实验室推进主线；战斗与跑图需要持续投入，跨平台或共享世界需 Microsoft 账号。",
+      "evidenceUrl": "https://store.steampowered.com/app/962130/",
+      "evidenceNote": "商店明确可单独或与最多三名朋友探索；官方 1.4.5 更新说明跨平台与共享世界的账号要求。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含巨型昆虫与蜘蛛",
+      "steamUrl": "https://store.steampowered.com/app/962130/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg?t=1768264530",
+      "price": {
+        "currency": "CNY",
+        "initial": 11900,
+        "final": 5950,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 108600,
+      "name": "Project Zomboid",
+      "aliases": [
+        "僵尸毁灭工程"
+      ],
+      "category": [
+        "生存建造"
+      ],
+      "players": "本地 1–4 人；在线按服务器配置",
+      "mode": [
+        "在线联机",
+        "本地分屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人一人望风、一人搜物资，再分担种地、修车和做饭；私人存档可慢慢经营，但角色死亡代价大，版本与模组要一致。",
+      "evidenceUrl": "https://projectzomboid.com/blog/news/2014/11/spiffo-sez-split-screen/",
+      "evidenceNote": "官方发布日志确认四人本地分屏，并可让分屏玩家加入在线合作服务器。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含僵尸、血腥与永久死亡",
+      "steamUrl": "https://store.steampowered.com/app/108600/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
+      "price": {
+        "currency": "CNY",
+        "initial": 9300,
+        "final": 6231,
+        "discountPercent": 33,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 322330,
+      "name": "Don't Starve Together",
+      "aliases": [
+        "饥荒联机版"
+      ],
+      "category": [
+        "生存建造"
+      ],
+      "players": "1–6 人（默认）",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人一人探图找资源、一人管食物与营地，换季前一起备战；没有陌生人也能开私人世界，死亡和冬夏生存需要学习。",
+      "evidenceUrl": "https://playdigious.helpshift.com/hc/en/39-don-t-starve-together/faq/786-how-many-players-can-join-a-server/",
+      "evidenceNote": "Steam 商店说明私人游戏可与朋友合作；官方发行支持 FAQ 说明默认服务器最多六人。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/322330/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/51e5f44e4e38ce02a985687df4fdc8feb678219b/header.jpg?t=1790287771",
+      "price": {
+        "currency": "CNY",
+        "initial": 2400,
+        "final": 1200,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 105600,
+      "name": "Terraria",
+      "aliases": [
+        "泰拉瑞亚"
+      ],
+      "category": [
+        "生存建造",
+        "动作冒险"
+      ],
+      "players": "支持双人；在线人数按服务器配置",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人分工挖矿、建房与制作装备，配合走位挑战首领；邀请制世界可以从头推进，装备和探索跨度大，适合长期搭档。",
+      "evidenceUrl": "https://terraria.wiki.gg/wiki/Guide%3ASetting_up_Steam_Multiplayer",
+      "evidenceNote": "官方 Wiki 的 Steam 联机指南说明 Host & Play 可设邀请制并邀请一名朋友进入自己的世界。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/105600/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 2100,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1621690,
+      "name": "Core Keeper",
+      "aliases": [
+        "地心护核者"
+      ],
+      "category": [
+        "生存建造",
+        "动作冒险"
+      ],
+      "players": "1–8 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人一人开矿修铁路、一人种地造装备，集合挑战洞穴首领；可完整推进同一世界，地图与自动化经营适合分多晚游玩。",
+      "evidenceUrl": "https://store.steampowered.com/app/1621690/",
+      "evidenceNote": "商店明确列出 1–8 人，并说明 2–8 人可随时加入或离开合作世界。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1621690/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/7d5c8ce81ceaa635b40d5103239b5f8851260604/header_alt_assets_3.jpg?t=1791194425",
+      "price": {
+        "currency": "CNY",
+        "initial": 7600,
+        "final": 4560,
+        "discountPercent": 40,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1203620,
+      "name": "Enshrouded",
+      "aliases": [
+        "雾锁王国"
+      ],
+      "category": [
+        "生存建造",
+        "动作冒险"
+      ],
+      "players": "1–16 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人选近战和远程互补，进迷雾找资源后一起扩建基地；人数少时采集与建造更耗时，适合喜欢探索和长期造家的搭档。",
+      "evidenceUrl": "https://store.steampowered.com/app/1203620/",
+      "evidenceNote": "商店说明可单独行动，合作模式最多十六人一起战斗、建造与探索。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1203620/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/731368301f231d622bd0b1e34afd2afcd86a1dcf/header.jpg?t=1790934459",
+      "price": {
+        "currency": "CNY",
+        "initial": 13800,
+        "final": 13800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1623730,
+      "name": "Palworld",
+      "aliases": [
+        "幻兽帕鲁"
+      ],
+      "category": [
+        "生存建造"
+      ],
+      "players": "房主联机 1–4 人；专服最多 32 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人分工捕捉、探索和安排帕鲁生产，一起打首领扩建基地；私人邀请即可推进，采集与升级需要持续投入。",
+      "evidenceUrl": "https://store.steampowered.com/app/1623730/",
+      "evidenceNote": "商店明确房主在线合作最多四人，可邀请朋友冒险；专用服务器最多三十二人。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含战斗与捕捉",
+      "steamUrl": "https://store.steampowered.com/app/1623730/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
+      "price": {
+        "currency": "CNY",
+        "initial": 10800,
+        "final": 7560,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 526870,
+      "name": "Satisfactory",
+      "aliases": [
+        "幸福工厂"
+      ],
+      "category": [
+        "经营协作",
+        "生存建造"
+      ],
+      "players": "1–4 人（官方支持）",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人一人勘探矿点、一人铺传送带和电网，再合力改生产线；共享工厂进度，适合愿意沟通布局、慢慢扩建的长期搭档。",
+      "evidenceUrl": "https://satisfactory.wiki.gg/wiki/Multiplayer",
+      "evidenceNote": "官方 Wiki 说明多人合作官方支持四人，可建私人游戏并共享主要设施进度。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/526870/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1791192059",
+      "price": {
+        "currency": "CNY",
+        "initial": 13600,
+        "final": 9520,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 427520,
+      "name": "Factorio",
+      "aliases": [
+        "异星工厂"
+      ],
+      "category": [
+        "经营协作",
+        "生存建造"
+      ],
+      "players": "支持双人；在线人数按服务器配置",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人分头做采矿物流与防线，汇总产量瓶颈后扩建自动化工厂；私人世界可一起完成火箭目标，学习成本高且常需长时间规划。",
+      "evidenceUrl": "https://wiki.factorio.com/Multiplayer",
+      "evidenceNote": "官方 Wiki 的多人指南说明可用 Steam 建立私人合作游戏，共同推进自由模式目标。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/427520/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg?t=1787348817",
+      "price": {
+        "currency": "CNY",
+        "initial": 13000,
+        "final": 13000,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 361420,
+      "name": "ASTRONEER",
+      "aliases": [
+        "异星探险家"
+      ],
+      "category": [
+        "生存建造",
+        "探索协作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人一人铺氧气管找资源、一人整地和建基地，再一起出发探索星球；可持续共享世界，远行前要协调氧气和背包空间。",
+      "evidenceUrl": "https://store.steampowered.com/app/361420/",
+      "evidenceNote": "商店明确 2–4 人在线合作，也可单独游玩并允许朋友加入。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/361420/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/1c44099d86c824a6fd1098a4215097878d68664e/header.jpg?t=1770767049",
+      "price": {
+        "currency": "CNY",
+        "initial": 10800,
+        "final": 2700,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 413150,
+      "name": "Stardew Valley",
+      "aliases": [
+        "星露谷物语"
+      ],
+      "category": [
+        "经营协作"
+      ],
+      "players": "在线 1–8 人；本地分屏最多 4 人",
+      "mode": [
+        "在线联机",
+        "本地分屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人分工种地、钓鱼和下矿，共享农场规划下一季；适合长期存档，联机时间不停，出门前要对齐当天安排。",
+      "evidenceUrl": "https://stardewvalleywiki.com/Multiplayer",
+      "evidenceNote": "当前商店明确可邀请一至七名玩家在线种田；官方 Wiki 说明本地分屏最多四人。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含可选恋爱与结婚支线",
+      "steamUrl": "https://store.steampowered.com/app/413150/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
+      "price": {
+        "currency": "CNY",
+        "initial": 4800,
+        "final": 3360,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1282100,
+      "name": "REMNANT II®",
+      "aliases": [
+        "遗迹2"
+      ],
+      "category": [
+        "合作射击",
+        "动作冒险"
+      ],
+      "players": "1–3 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人选互补职业，一人牵制首领、一人输出和复活，反复探索随机世界刷装备；私人组队可推进主线，首领战更考验配合。",
+      "evidenceUrl": "https://store.steampowered.com/app/1282100/",
+      "evidenceNote": "商店明确可以单独或与另外两名朋友共同探索并战斗。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1282100/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg?t=1764659459",
+      "price": {
+        "currency": "CNY",
+        "initial": 24500,
+        "final": 4900,
+        "discountPercent": 80,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 617290,
+      "name": "Remnant: From the Ashes",
+      "aliases": [
+        "遗迹灰烬重生"
+      ],
+      "category": [
+        "合作射击",
+        "动作冒险"
+      ],
+      "players": "1–3 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人分配弹药和远近程火力，轮流掩护与救起倒地搭档；可一起打主线并重刷世界，但少人时首领仇恨与补给更集中。",
+      "evidenceUrl": "https://store.steampowered.com/app/617290/",
+      "evidenceNote": "商店说明单人或与最多另外两名玩家合作。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/617290/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617290/header.jpg?t=1764657526",
+      "price": {
+        "currency": "CNY",
+        "initial": 14000,
+        "final": 2100,
+        "discountPercent": 85,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1217060,
+      "name": "Gunfire Reborn",
+      "aliases": [
+        "枪火重生"
+      ],
+      "category": [
+        "合作射击",
+        "动作肉鸽"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人挑互补角色与流派，交换不需要的武器、及时复活对方；一局局解锁成长，少人时清怪和元素组合要更主动协调。",
+      "evidenceUrl": "https://store.steampowered.com/app/1217060/",
+      "evidenceNote": "商店明确可以单独游玩或与最多三名朋友合作闯关。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1217060/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1217060/dd6c1906d262c38c183ccd711f192db187b5103f/header.jpg?t=1789092024",
+      "price": {
+        "currency": "CNY",
+        "initial": 6800,
+        "final": 4760,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 692890,
+      "name": "Roboquest",
+      "aliases": [
+        "机械守护者"
+      ],
+      "category": [
+        "合作射击",
+        "动作肉鸽"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "在线联机",
+        "跨平台"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人同步冲刺清怪、搭配武器和技能，再找机会复活搭档；原生合作就是双人，适合喜欢快节奏瞄准和跑图的两人。",
+      "evidenceUrl": "https://store.steampowered.com/app/692890/",
+      "evidenceNote": "商店明确单人或两人合作，并说明支持跨平台双人冒险。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/692890/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/6a58a633941af70c3813702c55fa23d11b964d7d/header.jpg?t=1780581844",
+      "price": {
+        "currency": "CNY",
+        "initial": 7899,
+        "final": 4739,
+        "discountPercent": 40,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 632360,
+      "name": "Risk of Rain 2",
+      "aliases": [
+        "雨中冒险2"
+      ],
+      "category": [
+        "合作射击",
+        "动作肉鸽"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人商量战利品分配和传送器时机，避免一人吃光关键装备；时间越久敌人越强，双人需要一起权衡搜图和推进速度。",
+      "evidenceUrl": "https://store.steampowered.com/app/632360/",
+      "evidenceNote": "商店明确可独自或与最多三名朋友一起战斗并逃离星球。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/632360/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg?t=1791233485",
+      "price": {
+        "currency": "CNY",
+        "initial": 8000,
+        "final": 2640,
+        "discountPercent": 67,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 49520,
+      "name": "Borderlands 2",
+      "aliases": [
+        "无主之地2"
+      ],
+      "category": [
+        "合作射击",
+        "剧情合作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人挑互补职业、分配战利品和救援倒地队友，一起做任务刷装备；剧情较长，建议固定角色等级与进度再持续推进。",
+      "evidenceUrl": "https://store.steampowered.com/app/49520/",
+      "evidenceNote": "商店明确支持四人在线或局域网合作，也可单人推进冒险。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含暴力与粗俗幽默",
+      "steamUrl": "https://store.steampowered.com/app/49520/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1751931279",
+      "price": {
+        "currency": "CNY",
+        "initial": 6400,
+        "final": 1600,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1286680,
+      "name": "Tiny Tina's Wonderlands",
+      "aliases": [
+        "小缇娜的奇幻之地"
+      ],
+      "category": [
+        "合作射击",
+        "动作冒险"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "跨平台"
+      ],
+      "fit": 2,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人用枪械、魔法和职业组合互补，边推进桌游风格主线边刷装备；单局不是短派对，适合约好进度分几晚玩。",
+      "evidenceUrl": "https://store.steampowered.com/app/1286680/",
+      "evidenceNote": "商店明确可单独或与最多三名朋友组队，另说明支持跨平台好友联机。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含暴力与粗俗幽默",
+      "steamUrl": "https://store.steampowered.com/app/1286680/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg?t=1737970341",
+      "price": {
+        "currency": "CNY",
+        "initial": 14900,
+        "final": 2980,
+        "discountPercent": 80,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 553850,
+      "name": "HELLDIVERS™ 2",
+      "aliases": [
+        "绝地潜兵2"
+      ],
+      "category": [
+        "合作射击"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人分配反甲和清杂装备，轮流掩护呼叫支援与撤离；可私下执行任务，但高难度更缺火力和救援，友军误伤要先报点。",
+      "evidenceUrl": "https://www.playstation.com/en-ca/support/games/helldivers-2-support/",
+      "evidenceNote": "PlayStation 官方支持说明可与最多三名朋友组队、最多四人在线作战。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含血腥与友军误伤",
+      "steamUrl": "https://store.steampowered.com/app/553850/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg?t=1789585784",
+      "price": {
+        "currency": "CNY",
+        "initial": 19800,
+        "final": 14850,
+        "discountPercent": 25,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 493520,
+      "name": "GTFO",
+      "aliases": [
+        "GTFO"
+      ],
+      "category": [
+        "合作射击",
+        "恐怖合作"
+      ],
+      "players": "4 人队伍；双人可加 2 名机器人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 1,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人可以带机器人补齐小队，分配扫描、资源和潜行清怪任务；关卡按四人协作设计，机器人难代替真人沟通，双人压力很大。",
+      "evidenceUrl": "https://store.steampowered.com/app/493520/",
+      "evidenceNote": "商店明确说明少一或两名玩家时机器人可填补队伍，双人需要机器人补位获得完整小队。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含强恐怖与血腥",
+      "steamUrl": "https://store.steampowered.com/app/493520/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493520/header.jpg?t=1773842359",
+      "price": {
+        "currency": "CNY",
+        "initial": 11600,
+        "final": 3132,
+        "discountPercent": 73,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1144200,
+      "name": "Ready or Not",
+      "aliases": [
+        "严阵以待"
+      ],
+      "category": [
+        "合作射击",
+        "潜入协作"
+      ],
+      "players": "1–5 人",
+      "mode": [
+        "在线联机",
+        "跨平台"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人先报门位、视角和嫌疑人情况，再交替开门与掩护；小队少时多个入口难同时控制，适合愿意慢速沟通的固定搭档。",
+      "evidenceUrl": "https://store.steampowered.com/app/1144200/",
+      "evidenceNote": "商店玩法说明支持最多五人跨平台合作，同时提供单人模式。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含写实暴力与沉重案件",
+      "steamUrl": "https://store.steampowered.com/app/1144200/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1790846188",
+      "price": {
+        "currency": "CNY",
+        "initial": 15900,
+        "final": 7950,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1522820,
+      "name": "Orcs Must Die! 3",
+      "aliases": [
+        "兽人必须死3"
+      ],
+      "category": [
+        "合作塔防",
+        "动作冒险"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人分工布陷阱与堵漏，分别看守不同路线再应急换岗；双人可以完整推进战役，适合反复优化陷阱组合和冲分。",
+      "evidenceUrl": "https://store.steampowered.com/app/1522820/",
+      "evidenceNote": "商店明确可以独自或两人合作，围绕陷阱与武器抵御兽人。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1522820/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/header.jpg?t=1726499308",
+      "price": {
+        "currency": "CNY",
+        "initial": 8800,
+        "final": 2200,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 201790,
+      "name": "Orcs Must Die! 2",
+      "aliases": [
+        "兽人必须死2"
+      ],
+      "category": [
+        "合作塔防",
+        "动作冒险"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 3,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人分别带擅长的陷阱和武器，卡住路口并互相补火力；合作战役可一起推进，适合讨论路线后再试一遍拿高分。",
+      "evidenceUrl": "https://store.steampowered.com/app/201790/",
+      "evidenceNote": "商店明确允许单人或与一名朋友合作，战役围绕两位角色展开。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/201790/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201790/header.jpg?t=1725042613",
+      "price": {
+        "currency": "CNY",
+        "initial": 5000,
+        "final": 1250,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 35720,
+      "name": "Trine 2: Complete Story",
+      "aliases": [
+        "三位一体2"
+      ],
+      "category": [
+        "平台闯关",
+        "双人解谜"
+      ],
+      "players": "1–3 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人切换法师、战士和盗贼，配合造箱、挂绳和挡危险；不需要第三人，全战役支持自由切角色解决物理谜题。",
+      "evidenceUrl": "https://store.steampowered.com/app/35720/",
+      "evidenceNote": "商店明确全战役均支持 1–3 人本地或在线合作，角色可自由切换。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/35720/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35720/header.jpg?t=1789543075",
+      "price": {
+        "currency": "CNY",
+        "initial": 6800,
+        "final": 1360,
+        "discountPercent": 80,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 690640,
+      "name": "Trine 4: The Nightmare Prince",
+      "aliases": [
+        "三位一体4"
+      ],
+      "category": [
+        "平台闯关",
+        "双人解谜"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人配合改变水流、磁力和光线，用各角色能力搭出通路；谜题会按人数调整，适合边观察机关边讨论解法。",
+      "evidenceUrl": "https://store.steampowered.com/app/690640/",
+      "evidenceNote": "商店明确全战役支持 1–4 人本地或在线合作，挑战适应玩家人数。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/690640/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690640/64169d6388ed69eb94b7c9d77e4e7fb80f597025/header.jpg?t=1789546865",
+      "price": {
+        "currency": "CNY",
+        "initial": 11800,
+        "final": 2360,
+        "discountPercent": 80,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1436700,
+      "name": "Trine 5: A Clockwork Conspiracy",
+      "aliases": [
+        "三位一体5"
+      ],
+      "category": [
+        "平台闯关",
+        "双人解谜"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人组合角色能力过机关，打首领时轮流控场与输出；谜题和战斗会按人数调整，可以完整双人推进童话冒险。",
+      "evidenceUrl": "https://store.steampowered.com/app/1436700/",
+      "evidenceNote": "商店明确 1–4 人，在线及本地合作的谜题与战斗难度都会适应人数。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1436700/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1436700/header.jpg?t=1788967232",
+      "price": {
+        "currency": "CNY",
+        "initial": 10800,
+        "final": 4320,
+        "discountPercent": 60,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 477160,
+      "name": "Human Fall Flat",
+      "aliases": [
+        "人类一败涂地"
+      ],
+      "category": [
+        "物理闯关",
+        "双人解谜"
+      ],
+      "players": "在线 1–8 人；支持本地分屏",
+      "mode": [
+        "在线联机",
+        "本地分屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "热门游戏",
+      "relation": "合作互坑",
+      "reason": "两人一个抓住机关、另一个爬过去，再把搭档拉上来；双人就能解物理关卡，也容易一起失手掉落，适合边试边笑的节奏。",
+      "evidenceUrl": "https://store.steampowered.com/app/477160/",
+      "evidenceNote": "商店明确可单独或最多八人在线合作解物理关卡，提供本地分屏合作。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/477160/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/9258286b309480a3ce438c07cb51fadf3ea2f1d1/header_alt_assets_27.jpg?t=1789479416",
+      "price": {
+        "currency": "CNY",
+        "initial": 5800,
+        "final": 1740,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 386940,
+      "name": "Ultimate Chicken Horse",
+      "aliases": [
+        "超级鸡马"
+      ],
+      "category": [
+        "欢乐对抗",
+        "平台闯关"
+      ],
+      "players": "2–4 人（对战）",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐",
+        "跨平台"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "对抗",
+      "reason": "两人轮流放平台与陷阱，再各自尝试跑到终点；无需补人即可对战，但多人摆机关时地图变化更混乱。",
+      "evidenceUrl": "https://store.steampowered.com/app/386940/",
+      "evidenceNote": "商店明确最多四人本地、在线及跨平台游玩，主要玩法是好友建关后竞争通关。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/386940/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/header.jpg?t=1765298731",
+      "price": {
+        "currency": "CNY",
+        "initial": 5500,
+        "final": 2475,
+        "discountPercent": 55,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 312530,
+      "name": "Duck Game",
+      "aliases": [
+        "鸭子游戏"
+      ],
+      "category": [
+        "欢乐对抗"
+      ],
+      "players": "2–8 人；另可 4 人观战",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "经典补充",
+      "relation": "对抗",
+      "reason": "两人一对一抢武器、利用地形速战速决，一轮结束马上再来；私人双人即可开打，更多人时突发混战更丰富。",
+      "evidenceUrl": "https://store.steampowered.com/app/312530/",
+      "evidenceNote": "当前商店明确本地或在线支持 2–8 名玩家，另可四人观战。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/312530/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312530/header.jpg?t=1719772984",
+      "price": {
+        "currency": "CNY",
+        "initial": 4200,
+        "final": 4200,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 880940,
+      "name": "Pummel Party",
+      "aliases": [
+        "揍击派对"
+      ],
+      "category": [
+        "欢乐对抗"
+      ],
+      "players": "1–8 人；建议 4–8 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 1,
+      "source": "热门游戏",
+      "relation": "对抗",
+      "reason": "两人可加 AI 玩棋盘和小游戏，用道具互相妨碍；主要设计偏四至八人派对，双人时建议补机器人，互动不如多人密集。",
+      "evidenceUrl": "https://store.steampowered.com/app/880940/",
+      "evidenceNote": "商店简介推荐 4–8 人，详细说明允许 1–8 人与朋友或 AI 竞争。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/880940/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg?t=1725311353",
+      "price": {
+        "currency": "CNY",
+        "initial": 5800,
+        "final": 3480,
+        "discountPercent": 40,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 431240,
+      "name": "Golf With Your Friends",
+      "aliases": [
+        "和朋友打高尔夫"
+      ],
+      "category": [
+        "欢乐对抗"
+      ],
+      "players": "1–12 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "补充",
+      "relation": "对抗",
+      "reason": "两人比杆数、练反弹路线，可选碰撞规则互相挡球；在线各自击球，本地是轮流操作同一设备，不能当作同时分屏打球。",
+      "evidenceUrl": "https://www.reddit.com/r/NintendoSwitch/comments/gm2rm5/",
+      "evidenceNote": "商店明确十二人以内；发行商说明可在线游玩或本地 hotseat 轮流击球。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/431240/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/header.jpg?t=1789740480",
+      "price": {
+        "currency": "CNY",
+        "initial": 7000,
+        "final": 1400,
+        "discountPercent": 80,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1016920,
+      "name": "Unrailed!",
+      "aliases": [
+        "一起开火车"
+      ],
+      "category": [
+        "欢乐协作",
+        "经营协作"
+      ],
+      "players": "1–4 人（合作）",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人一人砍树挖矿、一人铺轨补水，火车提速后随时换岗；无需补人可玩合作模式，双人每人兼顾的任务更多。",
+      "evidenceUrl": "https://store.steampowered.com/app/1016920/",
+      "evidenceNote": "商店明确合作、无尽与快速模式最多四人，另有四人才用的 2v2 对抗模式。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1016920/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg?t=1789381506",
+      "price": {
+        "currency": "CNY",
+        "initial": 9000,
+        "final": 1350,
+        "discountPercent": 85,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 996770,
+      "name": "Moving Out",
+      "aliases": [
+        "胡闹搬家"
+      ],
+      "category": [
+        "欢乐协作",
+        "物理搬运"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作互坑",
+      "reason": "两人各抬家具一端，数拍转弯或一起把沙发扔过窗；可完整合作搬家，但没有原生在线，异地需要远程同乐。",
+      "evidenceUrl": "https://store.steampowered.com/app/996770/",
+      "evidenceNote": "商店明确故事可独自或最多四人本地合作，提供 Steam 远程同乐。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/996770/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/996770/header.jpg?t=1781014487",
+      "price": {
+        "currency": "CNY",
+        "initial": 9800,
+        "final": 980,
+        "discountPercent": 90,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1641700,
+      "name": "Moving Out 2",
+      "aliases": [
+        "胡闹搬家2"
+      ],
+      "category": [
+        "欢乐协作",
+        "物理搬运"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐",
+        "跨平台"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作互坑",
+      "reason": "两人协调抬重物、跨障碍和投掷时机，一起完成跨世界搬家任务；原生在线可跨平台，适合短关卡反复挑战效率。",
+      "evidenceUrl": "https://store.steampowered.com/app/1641700/",
+      "evidenceNote": "商店明确单人或最多三名朋友合作，并提供本地与跨平台在线合作。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1641700/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641700/header.jpg?t=1780480295",
+      "price": {
+        "currency": "CNY",
+        "initial": 13000,
+        "final": 3250,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1004490,
+      "name": "Tools Up!",
+      "aliases": [
+        "装修大师"
+      ],
+      "category": [
+        "欢乐协作",
+        "经营协作"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人分工搬材料、刷墙和铺地板，互相报剩余工序再收拾残局；人数少时需频繁换岗，无原生在线，异地用远程同乐。",
+      "evidenceUrl": "https://www.allingames.com/game/tools-up/",
+      "evidenceNote": "发行商官方游戏页明确最多四人本地合作装修；商店同时提供单人及远程同乐。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1004490/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004490/header.jpg?t=1782405688",
+      "price": {
+        "currency": "CNY",
+        "initial": 7600,
+        "final": 1520,
+        "discountPercent": 80,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 268910,
+      "name": "Cuphead",
+      "aliases": [
+        "茶杯头"
+      ],
+      "category": [
+        "动作闯关"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人一起躲弹幕、输出首领，搭档倒下时抓机会跳跃救起；全程很吃操作与耐心，没有原生在线，异地用远程同乐。",
+      "evidenceUrl": "https://store.steampowered.com/app/268910/",
+      "evidenceNote": "商店说明本地合作由 Cuphead 和 Mugman 两个角色共同闯关。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/268910/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
+      "price": {
+        "currency": "CNY",
+        "initial": 6800,
+        "final": 4760,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 204360,
+      "name": "Castle Crashers®",
+      "aliases": [
+        "城堡破坏者"
+      ],
+      "category": [
+        "动作闯关"
+      ],
+      "players": "1–4 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人接力控怪、分配武器和药水，一起打横版关卡练角色；双人能推进战役，但多人围殴和救场更轻松。",
+      "evidenceUrl": "https://store.steampowered.com/app/204360/",
+      "evidenceNote": "商店明确最多四名朋友本地或在线合作，也提供单人模式。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "含卡通暴力",
+      "steamUrl": "https://store.steampowered.com/app/204360/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/header.jpg?t=1764096331",
+      "price": {
+        "currency": "CNY",
+        "initial": 4800,
+        "final": 1440,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 985890,
+      "name": "Streets of Rage 4",
+      "aliases": [
+        "怒之铁拳4"
+      ],
+      "category": [
+        "动作闯关"
+      ],
+      "players": "在线 1–2 人；本地 1–4 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人一前一后控住人群、接力打连段，再互相挡住侧面的敌人；原生在线最多两人，双人完整闯关与反复练招都合适。",
+      "evidenceUrl": "https://www.dotemu.com/PressKit/project/Games/Streets%20of%20Rage%204",
+      "evidenceNote": "发行商官方 Press Kit 明确两人在线合作、最多四人本地合作。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/985890/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/header.jpg?t=1763718423",
+      "price": {
+        "currency": "CNY",
+        "initial": 7600,
+        "final": 1900,
+        "discountPercent": 75,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1361510,
+      "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "aliases": [
+        "忍者神龟施莱德的复仇"
+      ],
+      "category": [
+        "动作闯关"
+      ],
+      "players": "1–6 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人选不同攻击范围的角色夹击敌群、救起倒地队友；可以一起走完整故事，最多六人时更热闹，双人更容易看清连招。",
+      "evidenceUrl": "https://store.steampowered.com/app/1361510/",
+      "evidenceNote": "商店说明可单独或最多六人同时闯关，支持本地及在线合作。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1361510/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361510/header.jpg?t=1782982752",
+      "price": {
+        "currency": "CNY",
+        "initial": 7600,
+        "final": 3040,
+        "discountPercent": 60,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 972660,
+      "name": "Spiritfarer®: Farewell Edition",
+      "aliases": [
+        "灵魂旅人"
+      ],
+      "category": [
+        "经营协作",
+        "剧情合作"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 2,
+      "source": "补充",
+      "relation": "非对称合作",
+      "reason": "一人掌舵和推进剧情，一人当猫协助种地、做饭与采集；完整冒险能一起玩，但第二人偏辅助，不能主导多数对话和决定。",
+      "evidenceUrl": "https://store.steampowered.com/app/972660/",
+      "evidenceNote": "商店明确两人合作由第二人控制 Daffodil，提供本地合作与远程同乐。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "涉及死亡与告别",
+      "steamUrl": "https://store.steampowered.com/app/972660/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/header.jpg?t=1752503178",
+      "price": {
+        "currency": "CNY",
+        "initial": 10900,
+        "final": 1090,
+        "discountPercent": 90,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 837470,
+      "name": "Untitled Goose Game",
+      "aliases": [
+        "捣蛋鹅"
+      ],
+      "category": [
+        "欢乐协作",
+        "潜入协作"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "热门游戏",
+      "relation": "合作互坑",
+      "reason": "两只鹅一个吸引村民、一个偷东西或完成任务，也能一起把场面搅乱；整个原版游戏都能双人，本地或远程同乐共享一份。",
+      "evidenceUrl": "https://store.steampowered.com/app/837470/",
+      "evidenceNote": "商店明确全游戏可用新的两人合作模式游玩，两人同时控制两只鹅。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/837470/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/header.jpg?t=1699052664",
+      "price": {
+        "currency": "CNY",
+        "initial": 7000,
+        "final": 2800,
+        "discountPercent": 60,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 95400,
+      "name": "ibb & obb",
+      "aliases": [
+        "艾波与欧波"
+      ],
+      "category": [
+        "双人解谜",
+        "平台闯关"
+      ],
+      "players": "2 人（合作）",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "经典补充",
+      "relation": "合作",
+      "reason": "两人利用上下相反的重力踩机关、传递位置并同步越过障碍；关卡专为双人协作设计，需要反复对齐起跳时机。",
+      "evidenceUrl": "https://store.steampowered.com/app/95400/",
+      "evidenceNote": "商店明确是 two player cooperative game，重力朝上下两个方向作用。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/95400/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/95400/header.jpg?t=1725230107",
+      "price": {
+        "currency": "CNY",
+        "initial": 4000,
+        "final": 4000,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1982340,
+      "name": "Blanc",
+      "aliases": [
+        "白色之旅"
+      ],
+      "category": [
+        "双人解谜",
+        "探索协作"
+      ],
+      "players": "2 人",
+      "mode": [
+        "在线联机",
+        "本地同屏"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人分别操控狼崽和小鹿，用不同体型与能力互相搭路找家人；流程温和而短，适合一两晚连续完成的安静合作。",
+      "evidenceUrl": "https://store.steampowered.com/app/1982340/",
+      "evidenceNote": "商店明确由两名玩家分别控制狼崽或小鹿，支持本地及在线合作。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1982340/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1982340/header.jpg?t=1781819382",
+      "price": {
+        "currency": "CNY",
+        "initial": 6200,
+        "final": 6200,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 944080,
+      "name": "Pode",
+      "aliases": [
+        "Pode石头与星星"
+      ],
+      "category": [
+        "双人解谜",
+        "探索协作"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人分别控制石头和星星，组合发光、搬运和地形能力解谜；节奏慢且重观察，双人至少需要一个手柄，异地用远程同乐。",
+      "evidenceUrl": "https://store.steampowered.com/app/944080/",
+      "evidenceNote": "商店说明可单人切换两角色或合作组合双方能力，并注明合作至少一个手柄。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/944080/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944080/header.jpg?t=1667212285",
+      "price": {
+        "currency": "CNY",
+        "initial": 7000,
+        "final": 3500,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 850320,
+      "name": "PHOGS!",
+      "aliases": [
+        "狗狗"
+      ],
+      "category": [
+        "双人解谜",
+        "物理闯关"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作互坑",
+      "reason": "两人分别操控连体狗的一端，商量谁咬住锚点、谁伸长身体取物；可同设备共用控制器或原生在线，失误容易把搭档一起拖走。",
+      "evidenceUrl": "https://store.steampowered.com/app/850320/",
+      "evidenceNote": "商店说明由一对相连的狗头解谜，提供单人、共享控制器、本地与在线合作。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/850320/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850320/header.jpg?t=1741171193",
+      "price": {
+        "currency": "CNY",
+        "initial": 8000,
+        "final": 1600,
+        "discountPercent": 80,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1509960,
+      "name": "PICO PARK",
+      "aliases": [
+        "PICO PARK猫猫闯关"
+      ],
+      "category": [
+        "欢乐协作",
+        "双人解谜"
+      ],
+      "players": "2–8 人",
+      "mode": [
+        "在线联机",
+        "本地同屏"
+      ],
+      "fit": 3,
+      "source": "热门游戏",
+      "relation": "合作互坑",
+      "reason": "两人叠高、递钥匙和轮流踩机关，商量好动作就能一起过关；最低两人即可玩，不需要凑八人，多人只是更混乱。",
+      "evidenceUrl": "https://store.steampowered.com/app/1509960/",
+      "evidenceNote": "商店明确本地及在线合作为 2–8 人，关卡需要所有玩家一起抵达出口。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1509960/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/header.jpg?t=1740033204",
+      "price": {
+        "currency": "CNY",
+        "initial": 2200,
+        "final": 1540,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 2644470,
+      "name": "PICO PARK 2",
+      "aliases": [
+        "PICO PARK2猫猫闯关2"
+      ],
+      "category": [
+        "欢乐协作",
+        "双人解谜"
+      ],
+      "players": "2–8 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐",
+        "跨平台"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作互坑",
+      "reason": "两人配合叠高、搬钥匙和控制机关，在新关卡里同步动作；所有关卡都适应两至八人，双人可以完整推进而不必补人。",
+      "evidenceUrl": "https://store.steampowered.com/app/2644470/",
+      "evidenceNote": "商店明确 2–8 人、所有关卡可用任意支持人数游玩，并说明跨平台联机。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/2644470/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/header.jpg?t=1760143639",
+      "price": {
+        "currency": "CNY",
+        "initial": 4000,
+        "final": 2800,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1435790,
+      "name": "Escape Simulator",
+      "aliases": [
+        "密室逃脱模拟器"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "1 人起；官方关卡建议 2–3 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 3,
+      "source": "热门游戏",
+      "relation": "合作",
+      "reason": "两人分头翻抽屉和看密码，再把发现的线索拼起来解锁机关；官方房间适合少人专注解谜，创意工坊房间需另看人数要求。",
+      "evidenceUrl": "https://store.steampowered.com/app/1435790/",
+      "evidenceNote": "商店说明所有房间支持在线合作，内置房间建议最多三人，也允许更多玩家。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1435790/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/413708a2da512607f70bb22b29270359586c6e5f/header.jpg?t=1791195318",
+      "price": {
+        "currency": "CNY",
+        "initial": 6500,
+        "final": 3250,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 2879840,
+      "name": "Escape Simulator 2",
+      "aliases": [
+        "密室逃脱模拟器2"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "1–8 人",
+      "mode": [
+        "在线联机",
+        "语音协作"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人各查一片房间，用内置语音核对线索和机关效果；可完整合作解官方密室，少人时更容易跟上谜题推理过程。",
+      "evidenceUrl": "https://store.steampowered.com/app/2879840/",
+      "evidenceNote": "商店明确可单人或最多八人在线合作，内置语音和文字聊天。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/2879840/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879840/debbf74e765c74bce83f27619d85ead21d393e47/header_alt_assets_3.jpg?t=1790013058",
+      "price": {
+        "currency": "CNY",
+        "initial": 6500,
+        "final": 4550,
+        "discountPercent": 30,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 2098350,
+      "name": "Escape Memoirs: Mini Stories",
+      "aliases": [
+        "逃脱回忆迷你故事"
+      ],
+      "category": [
+        "双人解谜"
+      ],
+      "players": "1–5 人",
+      "mode": [
+        "在线联机"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人一起搜小密室、对照密码与机关，在短篇场景里分工推理；本体免费，不必补人，适合先试一晚是否喜欢解谜。",
+      "evidenceUrl": "https://store.steampowered.com/app/2098350/",
+      "evidenceNote": "商店明确 1–5 人合作密室解谜，可独自或与朋友推进。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/2098350/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098350/header.jpg?t=1734637579",
+      "price": {
+        "currency": "CNY",
+        "initial": 0,
+        "final": 0,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 1071870,
+      "name": "Biped",
+      "aliases": [
+        "只只大冒险"
+      ],
+      "category": [
+        "平台闯关",
+        "双人解谜"
+      ],
+      "players": "1–2 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "补充",
+      "relation": "合作",
+      "reason": "两人各控制机器人的两只脚，数拍过桥、拉住搭档并踩机关；合作重点就是两人的步伐与平衡，完整双人关卡可以一起推进。",
+      "evidenceUrl": "https://store.steampowered.com/app/1071870/",
+      "evidenceNote": "商店明确重点是两人合作，也可独自游玩，支持本地与在线双人配合。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/1071870/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071870/e4534c085670f0ec4a2c4fab343e1342c81ca035/header.jpg?t=1790759691",
+      "price": {
+        "currency": "CNY",
+        "initial": 5800,
+        "final": 696,
+        "discountPercent": 88,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
+    },
+    {
+      "id": 673750,
+      "name": "Super Bunny Man",
+      "aliases": [
+        "超级兔子人"
+      ],
+      "category": [
+        "物理闯关",
+        "欢乐协作"
+      ],
+      "players": "支持双人故事；派对最多 4 人",
+      "mode": [
+        "在线联机",
+        "本地同屏",
+        "远程同乐"
+      ],
+      "fit": 3,
+      "source": "热门游戏",
+      "relation": "合作互坑",
+      "reason": "两人抱住搭档、翻滚起跳把对方送过陷阱，也容易一起滚下悬崖；故事明确支持双人，适合反复试动作和找隐藏胡萝卜。",
+      "evidenceUrl": "https://store.steampowered.com/app/673750/",
+      "evidenceNote": "商店故事说明可独自或与一名朋友本地或在线闯关；派对模式最多四人。",
+      "verifiedAt": "2026-10-06",
+      "contentNote": "",
+      "steamUrl": "https://store.steampowered.com/app/673750/",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673750/header.jpg?t=1764709681",
+      "price": {
+        "currency": "CNY",
+        "initial": 5800,
+        "final": 2900,
+        "discountPercent": 50,
+        "checkedAt": "2026-10-06"
+      },
+      "priceRefreshFailed": false
     }
   ]
 }

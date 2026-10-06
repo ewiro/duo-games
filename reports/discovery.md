@@ -2,23 +2,23 @@
 
 扫描日期：2026-10-06（Asia/Shanghai）。
 
-每个入口抽样前 100 条；多入口合并去重发现 623 款，本次新增 0 款。扫描是抽样防遗漏，不代表覆盖所有 Steam 游戏。
+每个入口抽样前 100 条；多入口合并去重发现 622 款，本次新增 1 款。扫描是抽样防遗漏，不代表覆盖所有 Steam 游戏。
 
-台账共 630 款：正式收录 30 款，待核验 598 款，已排除 2 款。
+台账共 647 款：正式收录 96 款，待核验 549 款，已排除 2 款。
 
 类型标签只是发现线索；轻恐怖入口也可能返回重度恐怖作品，欢乐入口也不保证适合两人。待核验候选不出现在正式页面；已有排除状态与理由保持不变。
 
 | 入口 | 状态 | 抽样数 | Steam 入口总数 |
 | --- | --- | ---: | ---: |
-| [双人合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685&term=two) | 成功 | 100 | 6418 |
-| [在线合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3843) | 成功 | 100 | 10491 |
+| [双人合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685&term=two) | 成功 | 100 | 6417 |
+| [在线合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3843) | 成功 | 100 | 10490 |
 | [本地合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3841) | 成功 | 100 | 5177 |
 | [双人解谜](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685%2C1664) | 成功 | 100 | 1523 |
 | [双人对抗](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1775%2C7368) | 成功 | 100 | 3311 |
 | [欢乐游戏](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3859%2C4136) | 成功 | 100 | 5177 |
 | [轻恐怖合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685%2C1667) | 成功 | 100 | 2069 |
-| [热销游戏](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=topsellers) | 成功 | 99 | 6824 |
-| [热门新品](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularnew) | 成功 | 100 | 404 |
+| [热销游戏](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=topsellers) | 成功 | 99 | 6834 |
+| [热门新品](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularnew) | 成功 | 100 | 402 |
 | [热门愿望单](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularwishlist) | 成功 | 99 | 5207 |
 
 ## 人工审核顺序
@@ -30,3 +30,4 @@
 
 ## 本次新增候选（最多展示 40 条，完整清单在 data/candidates.tsv）
 
+- [HUSHED](https://store.steampowered.com/app/4532140/) — 轻恐怖合作
