@@ -62,7 +62,7 @@
       "key": "sellers",
       "name": "热销游戏",
       "url": "https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=topsellers",
-      "total": 6834,
+      "total": 6833,
       "sampled": 99,
       "status": "ok"
     },
@@ -83,7 +83,7 @@
       "status": "ok"
     }
   ],
-  "discovered": 622,
-  "added": 1,
+  "discovered": 621,
+  "added": 0,
   "pending": 549
 }

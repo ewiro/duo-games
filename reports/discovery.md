@@ -2,7 +2,7 @@
 
 扫描日期：2026-10-06（Asia/Shanghai）。
 
-每个入口抽样前 100 条；多入口合并去重发现 622 款，本次新增 1 款。扫描是抽样防遗漏，不代表覆盖所有 Steam 游戏。
+每个入口抽样前 100 条；多入口合并去重发现 621 款，本次新增 0 款。扫描是抽样防遗漏，不代表覆盖所有 Steam 游戏。
 
 台账共 647 款：正式收录 96 款，待核验 549 款，已排除 2 款。
 
@@ -17,7 +17,7 @@
 | [双人对抗](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1775%2C7368) | 成功 | 100 | 3311 |
 | [欢乐游戏](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3859%2C4136) | 成功 | 100 | 5177 |
 | [轻恐怖合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685%2C1667) | 成功 | 100 | 2069 |
-| [热销游戏](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=topsellers) | 成功 | 99 | 6834 |
+| [热销游戏](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=topsellers) | 成功 | 99 | 6833 |
 | [热门新品](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularnew) | 成功 | 100 | 402 |
 | [热门愿望单](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularwishlist) | 成功 | 99 | 5207 |
 
@@ -30,4 +30,3 @@
 
 ## 本次新增候选（最多展示 40 条，完整清单在 data/candidates.tsv）
 
-- [HUSHED](https://store.steampowered.com/app/4532140/) — 轻恐怖合作
