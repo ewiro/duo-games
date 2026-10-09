@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08",
+  "generatedAt": "2026-10-09",
   "games": [
     {
       "id": 2001120,
@@ -32,9 +32,9 @@
       "price": {
         "currency": "CNY",
         "initial": 19800,
-        "final": 12870,
-        "discountPercent": 35,
-        "checkedAt": "2026-10-08"
+        "final": 19800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -65,10 +65,10 @@
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/faffc0f560786e2f05104a8d2fac837c6969bf13/header.jpg?t=1790187113",
       "price": {
         "currency": "CNY",
-        "initial": 4200,
-        "final": 840,
-        "discountPercent": 80,
-        "checkedAt": "2026-10-08"
+        "initial": 3500,
+        "final": 3500,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -101,9 +101,9 @@
       "price": {
         "currency": "CNY",
         "initial": 15800,
-        "final": 4740,
-        "discountPercent": 70,
-        "checkedAt": "2026-10-08"
+        "final": 15800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -136,7 +136,7 @@
         "initial": 0,
         "final": 0,
         "discountPercent": 0,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -167,9 +167,9 @@
       "price": {
         "currency": "CNY",
         "initial": 4200,
-        "final": 1260,
-        "discountPercent": 70,
-        "checkedAt": "2026-10-08"
+        "final": 4200,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -202,7 +202,7 @@
         "initial": 5200,
         "final": 1976,
         "discountPercent": 62,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -233,9 +233,9 @@
       "price": {
         "currency": "CNY",
         "initial": 6800,
-        "final": 2720,
-        "discountPercent": 60,
-        "checkedAt": "2026-10-08"
+        "final": 6800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -268,7 +268,7 @@
         "initial": 1800,
         "final": 450,
         "discountPercent": 75,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -300,10 +300,10 @@
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1335790/header.jpg?t=1762781027",
       "price": {
         "currency": "CNY",
-        "initial": 7600,
-        "final": 1900,
+        "initial": 9600,
+        "final": 2400,
         "discountPercent": 75,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -335,9 +335,9 @@
       "price": {
         "currency": "CNY",
         "initial": 2300,
-        "final": 1150,
-        "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "final": 2300,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -369,9 +369,9 @@
       "price": {
         "currency": "CNY",
         "initial": 3900,
-        "final": 1560,
-        "discountPercent": 60,
-        "checkedAt": "2026-10-08"
+        "final": 3900,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -404,9 +404,9 @@
       "price": {
         "currency": "CNY",
         "initial": 8000,
-        "final": 1200,
-        "discountPercent": 85,
-        "checkedAt": "2026-10-08"
+        "final": 8000,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -438,9 +438,9 @@
       "price": {
         "currency": "CNY",
         "initial": 11800,
-        "final": 1770,
-        "discountPercent": 85,
-        "checkedAt": "2026-10-08"
+        "final": 11800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -472,9 +472,9 @@
       "price": {
         "currency": "CNY",
         "initial": 4800,
-        "final": 1440,
-        "discountPercent": 70,
-        "checkedAt": "2026-10-08"
+        "final": 4800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -505,9 +505,9 @@
       "price": {
         "currency": "CNY",
         "initial": 2600,
-        "final": 1820,
-        "discountPercent": 30,
-        "checkedAt": "2026-10-08"
+        "final": 2600,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -538,9 +538,9 @@
       "price": {
         "currency": "CNY",
         "initial": 2600,
-        "final": 1820,
-        "discountPercent": 30,
-        "checkedAt": "2026-10-08"
+        "final": 2600,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -572,9 +572,9 @@
       "price": {
         "currency": "CNY",
         "initial": 7000,
-        "final": 1050,
-        "discountPercent": 85,
-        "checkedAt": "2026-10-08"
+        "final": 700,
+        "discountPercent": 90,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -605,10 +605,10 @@
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286580/4ff91ed3d568665ee52dc987b1a6ba64e6c847f9/header.jpg?t=1780480732",
       "price": {
         "currency": "CNY",
-        "initial": 9900,
-        "final": 2475,
+        "initial": 14500,
+        "final": 3625,
         "discountPercent": 75,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -639,9 +639,9 @@
       "price": {
         "currency": "CNY",
         "initial": 5800,
-        "final": 2900,
-        "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "final": 5800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -676,7 +676,7 @@
         "initial": 7800,
         "final": 6240,
         "discountPercent": 20,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -708,9 +708,9 @@
       "price": {
         "currency": "CNY",
         "initial": 4200,
-        "final": 1050,
-        "discountPercent": 75,
-        "checkedAt": "2026-10-08"
+        "final": 4200,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -742,9 +742,9 @@
       "price": {
         "currency": "CNY",
         "initial": 9800,
-        "final": 2450,
-        "discountPercent": 75,
-        "checkedAt": "2026-10-08"
+        "final": 9800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -779,7 +779,7 @@
         "initial": 6800,
         "final": 680,
         "discountPercent": 90,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -806,13 +806,13 @@
       "verifiedAt": "2026-10-06",
       "contentNote": "",
       "steamUrl": "https://store.steampowered.com/app/2567870/",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/9989d3793429ffa481cc3228bb66d65565b9ce2b/header.jpg?t=1790865724",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/9989d3793429ffa481cc3228bb66d65565b9ce2b/header.jpg?t=1791478907",
       "price": {
         "currency": "CNY",
         "initial": 2200,
         "final": 1760,
         "discountPercent": 20,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -838,13 +838,13 @@
       "verifiedAt": "2026-10-06",
       "contentNote": "",
       "steamUrl": "https://store.steampowered.com/app/548430/",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/d3edf99a4ae52d305ec6ddd2a8f2703499b8aae5/header_alt_assets_28.jpg?t=1790248272",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1790248272",
       "price": {
         "currency": "CNY",
         "initial": 10800,
-        "final": 3240,
-        "discountPercent": 70,
-        "checkedAt": "2026-10-08"
+        "final": 10800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -870,13 +870,13 @@
       "verifiedAt": "2026-10-06",
       "contentNote": "",
       "steamUrl": "https://store.steampowered.com/app/582010/",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1773328926",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1791439347",
       "price": {
         "currency": "CNY",
         "initial": 14800,
-        "final": 3848,
-        "discountPercent": 74,
-        "checkedAt": "2026-10-08"
+        "final": 14800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -906,9 +906,9 @@
       "price": {
         "currency": "CNY",
         "initial": 19800,
-        "final": 1980,
-        "discountPercent": 90,
-        "checkedAt": "2026-10-08"
+        "final": 19800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -938,9 +938,9 @@
       "price": {
         "currency": "CNY",
         "initial": 8900,
-        "final": 8010,
-        "discountPercent": 10,
-        "checkedAt": "2026-10-08"
+        "final": 8900,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -974,7 +974,7 @@
         "initial": 1900,
         "final": 760,
         "discountPercent": 60,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1008,7 +1008,7 @@
         "initial": 2500,
         "final": 1250,
         "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1036,13 +1036,13 @@
       "verifiedAt": "2026-10-06",
       "contentNote": "含追逐与惊吓",
       "steamUrl": "https://store.steampowered.com/app/1943950/",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg?t=1790963343",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg?t=1791478913",
       "price": {
         "currency": "CNY",
         "initial": 3700,
-        "final": 2960,
-        "discountPercent": 20,
-        "checkedAt": "2026-10-08"
+        "final": 3700,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1073,9 +1073,9 @@
       "price": {
         "currency": "CNY",
         "initial": 3900,
-        "final": 3510,
-        "discountPercent": 10,
-        "checkedAt": "2026-10-08"
+        "final": 3900,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1107,9 +1107,9 @@
       "price": {
         "currency": "CNY",
         "initial": 4200,
-        "final": 3150,
-        "discountPercent": 25,
-        "checkedAt": "2026-10-08"
+        "final": 4200,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1136,13 +1136,13 @@
       "verifiedAt": "2026-10-06",
       "contentNote": "含惊吓与追逐",
       "steamUrl": "https://store.steampowered.com/app/739630/",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1789487643",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791466787",
       "price": {
         "currency": "CNY",
         "initial": 6800,
-        "final": 4760,
-        "discountPercent": 30,
-        "checkedAt": "2026-10-08"
+        "final": 6800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1172,9 +1172,9 @@
       "price": {
         "currency": "CNY",
         "initial": 7600,
-        "final": 2280,
-        "discountPercent": 70,
-        "checkedAt": "2026-10-08"
+        "final": 7600,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1204,9 +1204,9 @@
       "price": {
         "currency": "CNY",
         "initial": 4200,
-        "final": 2100,
-        "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "final": 4200,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1237,9 +1237,9 @@
       "price": {
         "currency": "CNY",
         "initial": 4300,
-        "final": 1720,
-        "discountPercent": 60,
-        "checkedAt": "2026-10-08"
+        "final": 4300,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1270,9 +1270,9 @@
       "price": {
         "currency": "CNY",
         "initial": 4200,
-        "final": 2100,
-        "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "final": 4200,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1306,7 +1306,7 @@
         "initial": 4200,
         "final": 4200,
         "discountPercent": 0,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1340,7 +1340,7 @@
         "initial": 3300,
         "final": 2046,
         "discountPercent": 38,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1372,9 +1372,9 @@
       "price": {
         "currency": "CNY",
         "initial": 3500,
-        "final": 2275,
-        "discountPercent": 35,
-        "checkedAt": "2026-10-08"
+        "final": 3500,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1407,9 +1407,9 @@
       "price": {
         "currency": "CNY",
         "initial": 3300,
-        "final": 2046,
-        "discountPercent": 38,
-        "checkedAt": "2026-10-08"
+        "final": 3300,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1440,9 +1440,9 @@
       "price": {
         "currency": "CNY",
         "initial": 13600,
-        "final": 1360,
-        "discountPercent": 90,
-        "checkedAt": "2026-10-08"
+        "final": 13600,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1473,9 +1473,9 @@
       "price": {
         "currency": "CNY",
         "initial": 7700,
-        "final": 5159,
-        "discountPercent": 33,
-        "checkedAt": "2026-10-08"
+        "final": 7700,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1507,9 +1507,9 @@
       "price": {
         "currency": "CNY",
         "initial": 11900,
-        "final": 5950,
-        "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "final": 11900,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1541,9 +1541,9 @@
       "price": {
         "currency": "CNY",
         "initial": 9300,
-        "final": 6231,
-        "discountPercent": 33,
-        "checkedAt": "2026-10-08"
+        "final": 9300,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1573,9 +1573,9 @@
       "price": {
         "currency": "CNY",
         "initial": 2400,
-        "final": 1200,
-        "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "final": 2400,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1608,7 +1608,7 @@
         "initial": 4200,
         "final": 2100,
         "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1635,13 +1635,13 @@
       "verifiedAt": "2026-10-06",
       "contentNote": "",
       "steamUrl": "https://store.steampowered.com/app/1621690/",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/7d5c8ce81ceaa635b40d5103239b5f8851260604/header_alt_assets_3.jpg?t=1791194425",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/4d3798fbb307f52d9e11ed5b5f665779097b2f55/header_alt_assets_12.jpg?t=1791454740",
       "price": {
         "currency": "CNY",
         "initial": 7600,
         "final": 4560,
         "discountPercent": 40,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1674,7 +1674,7 @@
         "initial": 13800,
         "final": 13800,
         "discountPercent": 0,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1706,7 +1706,7 @@
         "initial": 10800,
         "final": 7560,
         "discountPercent": 30,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1737,9 +1737,9 @@
       "price": {
         "currency": "CNY",
         "initial": 13600,
-        "final": 9520,
-        "discountPercent": 30,
-        "checkedAt": "2026-10-08"
+        "final": 13600,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1772,7 +1772,7 @@
         "initial": 13000,
         "final": 13000,
         "discountPercent": 0,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1805,7 +1805,7 @@
         "initial": 10800,
         "final": 2700,
         "discountPercent": 75,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1837,9 +1837,9 @@
       "price": {
         "currency": "CNY",
         "initial": 4800,
-        "final": 3360,
-        "discountPercent": 30,
-        "checkedAt": "2026-10-08"
+        "final": 4800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1870,9 +1870,9 @@
       "price": {
         "currency": "CNY",
         "initial": 24500,
-        "final": 4900,
-        "discountPercent": 80,
-        "checkedAt": "2026-10-08"
+        "final": 24500,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1903,9 +1903,9 @@
       "price": {
         "currency": "CNY",
         "initial": 14000,
-        "final": 2100,
-        "discountPercent": 85,
-        "checkedAt": "2026-10-08"
+        "final": 14000,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1936,9 +1936,9 @@
       "price": {
         "currency": "CNY",
         "initial": 6800,
-        "final": 4760,
-        "discountPercent": 30,
-        "checkedAt": "2026-10-08"
+        "final": 6800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1970,9 +1970,9 @@
       "price": {
         "currency": "CNY",
         "initial": 7899,
-        "final": 4739,
-        "discountPercent": 40,
-        "checkedAt": "2026-10-08"
+        "final": 7899,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -1999,13 +1999,13 @@
       "verifiedAt": "2026-10-06",
       "contentNote": "",
       "steamUrl": "https://store.steampowered.com/app/632360/",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg?t=1791233485",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg?t=1791475448",
       "price": {
         "currency": "CNY",
         "initial": 8000,
         "final": 2640,
         "discountPercent": 67,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2036,9 +2036,9 @@
       "price": {
         "currency": "CNY",
         "initial": 6400,
-        "final": 1600,
-        "discountPercent": 75,
-        "checkedAt": "2026-10-08"
+        "final": 6400,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2070,9 +2070,9 @@
       "price": {
         "currency": "CNY",
         "initial": 14900,
-        "final": 2980,
-        "discountPercent": 80,
-        "checkedAt": "2026-10-08"
+        "final": 14900,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2102,9 +2102,9 @@
       "price": {
         "currency": "CNY",
         "initial": 19800,
-        "final": 14850,
-        "discountPercent": 25,
-        "checkedAt": "2026-10-08"
+        "final": 19800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2135,9 +2135,9 @@
       "price": {
         "currency": "CNY",
         "initial": 11600,
-        "final": 3132,
-        "discountPercent": 73,
-        "checkedAt": "2026-10-08"
+        "final": 11600,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2169,9 +2169,9 @@
       "price": {
         "currency": "CNY",
         "initial": 15900,
-        "final": 7950,
-        "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "final": 15900,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2202,9 +2202,9 @@
       "price": {
         "currency": "CNY",
         "initial": 8800,
-        "final": 2200,
-        "discountPercent": 75,
-        "checkedAt": "2026-10-08"
+        "final": 8800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2235,9 +2235,9 @@
       "price": {
         "currency": "CNY",
         "initial": 5000,
-        "final": 1250,
-        "discountPercent": 75,
-        "checkedAt": "2026-10-08"
+        "final": 5000,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2270,9 +2270,9 @@
       "price": {
         "currency": "CNY",
         "initial": 6800,
-        "final": 1360,
-        "discountPercent": 80,
-        "checkedAt": "2026-10-08"
+        "final": 6800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2305,9 +2305,9 @@
       "price": {
         "currency": "CNY",
         "initial": 11800,
-        "final": 2360,
-        "discountPercent": 80,
-        "checkedAt": "2026-10-08"
+        "final": 11800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2340,9 +2340,9 @@
       "price": {
         "currency": "CNY",
         "initial": 10800,
-        "final": 4320,
-        "discountPercent": 60,
-        "checkedAt": "2026-10-08"
+        "final": 10800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2375,9 +2375,9 @@
       "price": {
         "currency": "CNY",
         "initial": 5800,
-        "final": 1740,
-        "discountPercent": 70,
-        "checkedAt": "2026-10-08"
+        "final": 5800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2411,9 +2411,9 @@
       "price": {
         "currency": "CNY",
         "initial": 5500,
-        "final": 2475,
-        "discountPercent": 55,
-        "checkedAt": "2026-10-08"
+        "final": 5500,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2447,7 +2447,7 @@
         "initial": 4200,
         "final": 4200,
         "discountPercent": 0,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2479,9 +2479,9 @@
       "price": {
         "currency": "CNY",
         "initial": 5800,
-        "final": 3480,
-        "discountPercent": 40,
-        "checkedAt": "2026-10-08"
+        "final": 5800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2513,9 +2513,9 @@
       "price": {
         "currency": "CNY",
         "initial": 7000,
-        "final": 1400,
-        "discountPercent": 80,
-        "checkedAt": "2026-10-08"
+        "final": 7000,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2548,9 +2548,9 @@
       "price": {
         "currency": "CNY",
         "initial": 9000,
-        "final": 1350,
-        "discountPercent": 85,
-        "checkedAt": "2026-10-08"
+        "final": 9000,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2582,9 +2582,9 @@
       "price": {
         "currency": "CNY",
         "initial": 9800,
-        "final": 980,
-        "discountPercent": 90,
-        "checkedAt": "2026-10-08"
+        "final": 9800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2620,7 +2620,7 @@
         "initial": 13000,
         "final": 3250,
         "discountPercent": 75,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2652,9 +2652,9 @@
       "price": {
         "currency": "CNY",
         "initial": 7600,
-        "final": 1520,
-        "discountPercent": 80,
-        "checkedAt": "2026-10-08"
+        "final": 7600,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2685,9 +2685,9 @@
       "price": {
         "currency": "CNY",
         "initial": 6800,
-        "final": 4760,
-        "discountPercent": 30,
-        "checkedAt": "2026-10-08"
+        "final": 6800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2719,9 +2719,9 @@
       "price": {
         "currency": "CNY",
         "initial": 4800,
-        "final": 1440,
-        "discountPercent": 70,
-        "checkedAt": "2026-10-08"
+        "final": 4800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2753,9 +2753,9 @@
       "price": {
         "currency": "CNY",
         "initial": 7600,
-        "final": 1900,
-        "discountPercent": 75,
-        "checkedAt": "2026-10-08"
+        "final": 7600,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2787,9 +2787,9 @@
       "price": {
         "currency": "CNY",
         "initial": 7600,
-        "final": 3040,
-        "discountPercent": 60,
-        "checkedAt": "2026-10-08"
+        "final": 7600,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2821,9 +2821,9 @@
       "price": {
         "currency": "CNY",
         "initial": 10900,
-        "final": 1090,
-        "discountPercent": 90,
-        "checkedAt": "2026-10-08"
+        "final": 10900,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2855,9 +2855,9 @@
       "price": {
         "currency": "CNY",
         "initial": 7000,
-        "final": 2800,
-        "discountPercent": 60,
-        "checkedAt": "2026-10-08"
+        "final": 7000,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2892,7 +2892,7 @@
         "initial": 4000,
         "final": 4000,
         "discountPercent": 0,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2924,9 +2924,9 @@
       "price": {
         "currency": "CNY",
         "initial": 6200,
-        "final": 6200,
-        "discountPercent": 0,
-        "checkedAt": "2026-10-08"
+        "final": 1860,
+        "discountPercent": 70,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2958,9 +2958,9 @@
       "price": {
         "currency": "CNY",
         "initial": 7000,
-        "final": 3500,
-        "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "final": 7000,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -2993,9 +2993,9 @@
       "price": {
         "currency": "CNY",
         "initial": 8000,
-        "final": 1600,
-        "discountPercent": 80,
-        "checkedAt": "2026-10-08"
+        "final": 8000,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -3027,9 +3027,9 @@
       "price": {
         "currency": "CNY",
         "initial": 2200,
-        "final": 1540,
-        "discountPercent": 30,
-        "checkedAt": "2026-10-08"
+        "final": 2200,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -3063,9 +3063,9 @@
       "price": {
         "currency": "CNY",
         "initial": 4000,
-        "final": 2800,
-        "discountPercent": 30,
-        "checkedAt": "2026-10-08"
+        "final": 4000,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -3095,9 +3095,9 @@
       "price": {
         "currency": "CNY",
         "initial": 6500,
-        "final": 3250,
-        "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "final": 6500,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -3128,9 +3128,9 @@
       "price": {
         "currency": "CNY",
         "initial": 6500,
-        "final": 4550,
-        "discountPercent": 30,
-        "checkedAt": "2026-10-08"
+        "final": 6500,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -3162,7 +3162,7 @@
         "initial": 0,
         "final": 0,
         "discountPercent": 0,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -3195,9 +3195,9 @@
       "price": {
         "currency": "CNY",
         "initial": 5800,
-        "final": 696,
-        "discountPercent": 88,
-        "checkedAt": "2026-10-08"
+        "final": 5800,
+        "discountPercent": 0,
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     },
@@ -3232,7 +3232,7 @@
         "initial": 5800,
         "final": 2900,
         "discountPercent": 50,
-        "checkedAt": "2026-10-08"
+        "checkedAt": "2026-10-09"
       },
       "priceRefreshFailed": false
     }
