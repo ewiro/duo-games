@@ -1,6 +1,6 @@
 # 双人游戏候选待审核
 
-最近扫描：2026-10-12。待核验 616 款；正式清单 96 款。
+最近扫描：2026-10-19。待核验 667 款；正式清单 96 款。
 
 自动发现仅建立队列，必须逐款人工核验，不能仅凭 Steam 多人/合作标签收录。
 
@@ -22,25 +22,27 @@
 - [ ] [Call of Duty®: Black Ops](https://store.steampowered.com/app/42700/) — 轻恐怖合作
 - [ ] [Nidhogg](https://store.steampowered.com/app/94400/) — 双人对抗
 - [ ] [Torchlight II](https://store.steampowered.com/app/200710/) — 双人合作
+- [ ] [LEGO® The Lord of the Rings™](https://store.steampowered.com/app/214510/) — 双人解谜
 - [ ] [Total War: ROME II - Emperor Edition](https://store.steampowered.com/app/214950/) — 双人合作
 - [ ] [PAYDAY 2](https://store.steampowered.com/app/218620/) — 双人合作、欢乐游戏
 - [ ] [Resident Evil 6](https://store.steampowered.com/app/221040/) — 本地合作、轻恐怖合作
-- [ ] [DayZ](https://store.steampowered.com/app/221100/) — 轻恐怖合作
+- [ ] [DayZ](https://store.steampowered.com/app/221100/) — 在线合作、轻恐怖合作
 - [ ] [Just Cause™ 3](https://store.steampowered.com/app/225540/) — 欢乐游戏
 - [ ] [Euro Truck Simulator 2](https://store.steampowered.com/app/227300/) — 热销游戏、热门新品
 - [ ] [Warframe](https://store.steampowered.com/app/230410/) — 在线合作、热销游戏、热门新品
 - [ ] [Company of Heroes 2](https://store.steampowered.com/app/231430/) — 双人合作
 - [ ] [Killing Floor 2](https://store.steampowered.com/app/232090/) — 双人合作、轻恐怖合作
 - [ ] [Prison Architect](https://store.steampowered.com/app/233450/) — 欢乐游戏
-- [ ] [War Thunder](https://store.steampowered.com/app/236390/) — 热门新品
+- [ ] [War Thunder](https://store.steampowered.com/app/236390/) — 热销游戏、热门新品
 - [ ] [DARK SOULS™ II](https://store.steampowered.com/app/236430/) — 双人合作
 - [ ] [Outlast](https://store.steampowered.com/app/238320/) — 轻恐怖合作
 - [ ] [Dying Light](https://store.steampowered.com/app/239140/) — 在线合作
 - [ ] [Korea. IL-2 Series](https://store.steampowered.com/app/247970/) — 双人合作
-- [ ] [LEGO® Marvel™ Super Heroes](https://store.steampowered.com/app/249130/) — 双人解谜、本地合作
+- [ ] [LEGO® Marvel™ Super Heroes](https://store.steampowered.com/app/249130/) — 双人解谜、本地合作、欢乐游戏
 - [ ] [The Binding of Isaac: Rebirth](https://store.steampowered.com/app/250900/) — 双人合作、本地合作、轻恐怖合作
 - [ ] [7 Days to Die](https://store.steampowered.com/app/251570/) — 在线合作
 - [ ] [Rust](https://store.steampowered.com/app/252490/) — 在线合作、热门新品
+- [ ] [Death Road to Canada](https://store.steampowered.com/app/252610/) — 本地合作
 - [ ] [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/) — 热销游戏、热门新品
 - [ ] [Subnautica](https://store.steampowered.com/app/264710/) — 热销游戏、热门新品
 - [ ] [Hero Siege](https://store.steampowered.com/app/269210/) — 本地合作
@@ -51,11 +53,9 @@
 - [ ] [Stellaris](https://store.steampowered.com/app/281990/) — 热销游戏、热门新品
 - [ ] [100% Orange Juice](https://store.steampowered.com/app/282800/) — 需核对双人房间是否必须由机器人补齐四席。
 - [ ] [BeamNG.drive](https://store.steampowered.com/app/284160/) — 欢乐游戏
+- [ ] [LEGO® The Hobbit™](https://store.steampowered.com/app/285160/) — 双人解谜
 - [ ] [Gang Beasts](https://store.steampowered.com/app/285900/) — 双人对抗、本地合作、欢乐游戏
 - [ ] [Tabletop Simulator](https://store.steampowered.com/app/286160/) — 在线合作、欢乐游戏
 - [ ] [Resident Evil Revelations 2](https://store.steampowered.com/app/287290/) — 轻恐怖合作
 - [ ] [Sid Meier’s Civilization® VI](https://store.steampowered.com/app/289070/) — 双人合作、在线合作、热销游戏、热门新品
-- [ ] [Brawlhalla](https://store.steampowered.com/app/291550/) — 需补核私人一对一房间玩法，避免把公开排名模式当作两名朋友互相对战证据。
-- [ ] [No More Room in Hell 2](https://store.steampowered.com/app/292000/) — 双人合作、在线合作、轻恐怖合作
-- [ ] [The Witcher 3: Wild Hunt — Remastered](https://store.steampowered.com/app/292030/) — 热门新品
 
