@@ -1,6 +1,6 @@
 # 双人游戏候选待审核
 
-最近扫描：2026-10-19。待核验 667 款；正式清单 96 款。
+最近扫描：2026-10-26。待核验 714 款；正式清单 96 款。
 
 自动发现仅建立队列，必须逐款人工核验，不能仅凭 Steam 多人/合作标签收录。
 
@@ -22,11 +22,15 @@
 - [ ] [Call of Duty®: Black Ops](https://store.steampowered.com/app/42700/) — 轻恐怖合作
 - [ ] [Nidhogg](https://store.steampowered.com/app/94400/) — 双人对抗
 - [ ] [Torchlight II](https://store.steampowered.com/app/200710/) — 双人合作
+- [ ] [Tomb Raider Game of the Year](https://store.steampowered.com/app/203160/) — 热销游戏
+- [ ] [Dungeons & Dragons Online®](https://store.steampowered.com/app/206480/) — 双人解谜
 - [ ] [LEGO® The Lord of the Rings™](https://store.steampowered.com/app/214510/) — 双人解谜
 - [ ] [Total War: ROME II - Emperor Edition](https://store.steampowered.com/app/214950/) — 双人合作
-- [ ] [PAYDAY 2](https://store.steampowered.com/app/218620/) — 双人合作、欢乐游戏
+- [ ] [PAYDAY 2](https://store.steampowered.com/app/218620/) — 双人合作、在线合作、欢乐游戏
+- [ ] [Don't Starve](https://store.steampowered.com/app/219740/) — 热销游戏
 - [ ] [Resident Evil 6](https://store.steampowered.com/app/221040/) — 本地合作、轻恐怖合作
 - [ ] [DayZ](https://store.steampowered.com/app/221100/) — 在线合作、轻恐怖合作
+- [ ] [Resident Evil Revelations](https://store.steampowered.com/app/222480/) — 轻恐怖合作
 - [ ] [Just Cause™ 3](https://store.steampowered.com/app/225540/) — 欢乐游戏
 - [ ] [Euro Truck Simulator 2](https://store.steampowered.com/app/227300/) — 热销游戏、热门新品
 - [ ] [Warframe](https://store.steampowered.com/app/230410/) — 在线合作、热销游戏、热门新品
@@ -43,8 +47,10 @@
 - [ ] [7 Days to Die](https://store.steampowered.com/app/251570/) — 在线合作
 - [ ] [Rust](https://store.steampowered.com/app/252490/) — 在线合作、热门新品
 - [ ] [Death Road to Canada](https://store.steampowered.com/app/252610/) — 本地合作
+- [ ] [Home Sheep Home: Farmageddon Party Edition](https://store.steampowered.com/app/259810/) — 本地合作
 - [ ] [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/) — 热销游戏、热门新品
 - [ ] [Subnautica](https://store.steampowered.com/app/264710/) — 热销游戏、热门新品
+- [ ] [Dead Rising 3 Apocalypse Edition](https://store.steampowered.com/app/265550/) — 轻恐怖合作
 - [ ] [Hero Siege](https://store.steampowered.com/app/269210/) — 本地合作
 - [ ] [American Truck Simulator](https://store.steampowered.com/app/270880/) — 热门新品
 - [ ] [Broforce](https://store.steampowered.com/app/274190/) — 本地合作
@@ -52,10 +58,4 @@
 - [ ] [DYNASTY WARRIORS 8: Xtreme Legends Complete Edition](https://store.steampowered.com/app/278080/) — 本地合作
 - [ ] [Stellaris](https://store.steampowered.com/app/281990/) — 热销游戏、热门新品
 - [ ] [100% Orange Juice](https://store.steampowered.com/app/282800/) — 需核对双人房间是否必须由机器人补齐四席。
-- [ ] [BeamNG.drive](https://store.steampowered.com/app/284160/) — 欢乐游戏
-- [ ] [LEGO® The Hobbit™](https://store.steampowered.com/app/285160/) — 双人解谜
-- [ ] [Gang Beasts](https://store.steampowered.com/app/285900/) — 双人对抗、本地合作、欢乐游戏
-- [ ] [Tabletop Simulator](https://store.steampowered.com/app/286160/) — 在线合作、欢乐游戏
-- [ ] [Resident Evil Revelations 2](https://store.steampowered.com/app/287290/) — 轻恐怖合作
-- [ ] [Sid Meier’s Civilization® VI](https://store.steampowered.com/app/289070/) — 双人合作、在线合作、热销游戏、热门新品
 
