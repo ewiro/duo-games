@@ -1,6 +1,6 @@
 # 双人游戏候选待审核
 
-最近扫描：2026-10-26。待核验 714 款；正式清单 96 款。
+最近扫描：2026-11-02。待核验 749 款；正式清单 96 款。
 
 自动发现仅建立队列，必须逐款人工核验，不能仅凭 Steam 多人/合作标签收录。
 
@@ -28,7 +28,7 @@
 - [ ] [Total War: ROME II - Emperor Edition](https://store.steampowered.com/app/214950/) — 双人合作
 - [ ] [PAYDAY 2](https://store.steampowered.com/app/218620/) — 双人合作、在线合作、欢乐游戏
 - [ ] [Don't Starve](https://store.steampowered.com/app/219740/) — 热销游戏
-- [ ] [Resident Evil 6](https://store.steampowered.com/app/221040/) — 本地合作、轻恐怖合作
+- [ ] [Resident Evil 6](https://store.steampowered.com/app/221040/) — 在线合作、本地合作、轻恐怖合作
 - [ ] [DayZ](https://store.steampowered.com/app/221100/) — 在线合作、轻恐怖合作
 - [ ] [Resident Evil Revelations](https://store.steampowered.com/app/222480/) — 轻恐怖合作
 - [ ] [Just Cause™ 3](https://store.steampowered.com/app/225540/) — 欢乐游戏
@@ -37,14 +37,17 @@
 - [ ] [Company of Heroes 2](https://store.steampowered.com/app/231430/) — 双人合作
 - [ ] [Killing Floor 2](https://store.steampowered.com/app/232090/) — 双人合作、轻恐怖合作
 - [ ] [Prison Architect](https://store.steampowered.com/app/233450/) — 欢乐游戏
+- [ ] [NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD](https://store.steampowered.com/app/234670/) — 双人对抗
 - [ ] [War Thunder](https://store.steampowered.com/app/236390/) — 热销游戏、热门新品
 - [ ] [DARK SOULS™ II](https://store.steampowered.com/app/236430/) — 双人合作
-- [ ] [Outlast](https://store.steampowered.com/app/238320/) — 轻恐怖合作
-- [ ] [Dying Light](https://store.steampowered.com/app/239140/) — 在线合作
+- [ ] [Outlast](https://store.steampowered.com/app/238320/) — 热销游戏、热门新品、轻恐怖合作
+- [ ] [Contagion](https://store.steampowered.com/app/238430/) — 双人对抗
+- [ ] [Dying Light](https://store.steampowered.com/app/239140/) — 在线合作、热销游戏、热门新品
+- [ ] [The Forest](https://store.steampowered.com/app/242760/) — 热销游戏、热门新品
 - [ ] [Korea. IL-2 Series](https://store.steampowered.com/app/247970/) — 双人合作
 - [ ] [LEGO® Marvel™ Super Heroes](https://store.steampowered.com/app/249130/) — 双人解谜、本地合作、欢乐游戏
 - [ ] [The Binding of Isaac: Rebirth](https://store.steampowered.com/app/250900/) — 双人合作、本地合作、轻恐怖合作
-- [ ] [7 Days to Die](https://store.steampowered.com/app/251570/) — 在线合作
+- [ ] [7 Days to Die](https://store.steampowered.com/app/251570/) — 在线合作、热销游戏、热门新品
 - [ ] [Rust](https://store.steampowered.com/app/252490/) — 在线合作、热门新品
 - [ ] [Death Road to Canada](https://store.steampowered.com/app/252610/) — 本地合作
 - [ ] [Home Sheep Home: Farmageddon Party Edition](https://store.steampowered.com/app/259810/) — 本地合作
@@ -54,8 +57,5 @@
 - [ ] [Hero Siege](https://store.steampowered.com/app/269210/) — 本地合作
 - [ ] [American Truck Simulator](https://store.steampowered.com/app/270880/) — 热门新品
 - [ ] [Broforce](https://store.steampowered.com/app/274190/) — 本地合作
-- [ ] [No Man's Sky](https://store.steampowered.com/app/275850/) — 热门新品
-- [ ] [DYNASTY WARRIORS 8: Xtreme Legends Complete Edition](https://store.steampowered.com/app/278080/) — 本地合作
-- [ ] [Stellaris](https://store.steampowered.com/app/281990/) — 热销游戏、热门新品
-- [ ] [100% Orange Juice](https://store.steampowered.com/app/282800/) — 需核对双人房间是否必须由机器人补齐四席。
+- [ ] [No Man's Sky](https://store.steampowered.com/app/275850/) — 热销游戏、热门新品
 
