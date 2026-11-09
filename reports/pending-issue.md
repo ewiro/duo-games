@@ -1,6 +1,6 @@
 # 双人游戏候选待审核
 
-最近扫描：2026-11-02。待核验 749 款；正式清单 96 款。
+最近扫描：2026-11-09。待核验 792 款；正式清单 96 款。
 
 自动发现仅建立队列，必须逐款人工核验，不能仅凭 Steam 多人/合作标签收录。
 
@@ -30,6 +30,7 @@
 - [ ] [Don't Starve](https://store.steampowered.com/app/219740/) — 热销游戏
 - [ ] [Resident Evil 6](https://store.steampowered.com/app/221040/) — 在线合作、本地合作、轻恐怖合作
 - [ ] [DayZ](https://store.steampowered.com/app/221100/) — 在线合作、轻恐怖合作
+- [ ] [Age of Empires II (Retired)](https://store.steampowered.com/app/221380/) — 双人合作
 - [ ] [Resident Evil Revelations](https://store.steampowered.com/app/222480/) — 轻恐怖合作
 - [ ] [Just Cause™ 3](https://store.steampowered.com/app/225540/) — 欢乐游戏
 - [ ] [Euro Truck Simulator 2](https://store.steampowered.com/app/227300/) — 热销游戏、热门新品
@@ -57,5 +58,4 @@
 - [ ] [Hero Siege](https://store.steampowered.com/app/269210/) — 本地合作
 - [ ] [American Truck Simulator](https://store.steampowered.com/app/270880/) — 热门新品
 - [ ] [Broforce](https://store.steampowered.com/app/274190/) — 本地合作
-- [ ] [No Man's Sky](https://store.steampowered.com/app/275850/) — 热销游戏、热门新品
 
