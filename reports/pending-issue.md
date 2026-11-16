@@ -1,6 +1,6 @@
 # 双人游戏候选待审核
 
-最近扫描：2026-11-09。待核验 792 款；正式清单 96 款。
+最近扫描：2026-11-16。待核验 846 款；正式清单 96 款。
 
 自动发现仅建立队列，必须逐款人工核验，不能仅凭 Steam 多人/合作标签收录。
 
@@ -13,7 +13,9 @@
 - [ ] [Left 4 Dead 2](https://store.steampowered.com/app/550/) — 需补充两名真人与机器人完成战役的官方依据，并降低双人适配度。
 - [ ] [Dota 2](https://store.steampowered.com/app/570/) — 双人合作、在线合作、热销游戏、热门新品
 - [ ] [Counter-Strike 2](https://store.steampowered.com/app/730/) — 双人合作、在线合作、热销游戏、热门新品
+- [ ] [Call of Duty® 2](https://store.steampowered.com/app/2630/) — 双人合作
 - [ ] [Garry's Mod](https://store.steampowered.com/app/4000/) — 在线合作、欢乐游戏
+- [ ] [STAR WARS™ Battlefront II (Classic, 2005)](https://store.steampowered.com/app/6060/) — 双人合作
 - [ ] [Call of Duty: World at War](https://store.steampowered.com/app/10090/) — 轻恐怖合作
 - [ ] [Aliens vs. Predator™](https://store.steampowered.com/app/10680/) — 轻恐怖合作
 - [ ] [Grand Theft Auto IV: The Complete Edition](https://store.steampowered.com/app/12210/) — 欢乐游戏
@@ -23,9 +25,11 @@
 - [ ] [Nidhogg](https://store.steampowered.com/app/94400/) — 双人对抗
 - [ ] [Torchlight II](https://store.steampowered.com/app/200710/) — 双人合作
 - [ ] [Tomb Raider Game of the Year](https://store.steampowered.com/app/203160/) — 热销游戏
+- [ ] [Crusader Kings II](https://store.steampowered.com/app/203770/) — 双人合作
 - [ ] [Dungeons & Dragons Online®](https://store.steampowered.com/app/206480/) — 双人解谜
 - [ ] [LEGO® The Lord of the Rings™](https://store.steampowered.com/app/214510/) — 双人解谜
 - [ ] [Total War: ROME II - Emperor Edition](https://store.steampowered.com/app/214950/) — 双人合作
+- [ ] [PlanetSide 2](https://store.steampowered.com/app/218230/) — 双人合作
 - [ ] [PAYDAY 2](https://store.steampowered.com/app/218620/) — 双人合作、在线合作、欢乐游戏
 - [ ] [Don't Starve](https://store.steampowered.com/app/219740/) — 热销游戏
 - [ ] [Resident Evil 6](https://store.steampowered.com/app/221040/) — 在线合作、本地合作、轻恐怖合作
@@ -37,25 +41,21 @@
 - [ ] [Warframe](https://store.steampowered.com/app/230410/) — 在线合作、热销游戏、热门新品
 - [ ] [Company of Heroes 2](https://store.steampowered.com/app/231430/) — 双人合作
 - [ ] [Killing Floor 2](https://store.steampowered.com/app/232090/) — 双人合作、轻恐怖合作
+- [ ] [Stronghold Crusader 2](https://store.steampowered.com/app/232890/) — 双人合作
 - [ ] [Prison Architect](https://store.steampowered.com/app/233450/) — 欢乐游戏
 - [ ] [NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD](https://store.steampowered.com/app/234670/) — 双人对抗
 - [ ] [War Thunder](https://store.steampowered.com/app/236390/) — 热销游戏、热门新品
 - [ ] [DARK SOULS™ II](https://store.steampowered.com/app/236430/) — 双人合作
 - [ ] [Outlast](https://store.steampowered.com/app/238320/) — 热销游戏、热门新品、轻恐怖合作
+- [ ] [Magicka 2](https://store.steampowered.com/app/238370/) — 双人合作、双人对抗、本地合作
 - [ ] [Contagion](https://store.steampowered.com/app/238430/) — 双人对抗
 - [ ] [Dying Light](https://store.steampowered.com/app/239140/) — 在线合作、热销游戏、热门新品
 - [ ] [The Forest](https://store.steampowered.com/app/242760/) — 热销游戏、热门新品
+- [ ] [Men of War: Assault Squad 2](https://store.steampowered.com/app/244450/) — 双人合作
 - [ ] [Korea. IL-2 Series](https://store.steampowered.com/app/247970/) — 双人合作
 - [ ] [LEGO® Marvel™ Super Heroes](https://store.steampowered.com/app/249130/) — 双人解谜、本地合作、欢乐游戏
 - [ ] [The Binding of Isaac: Rebirth](https://store.steampowered.com/app/250900/) — 双人合作、本地合作、轻恐怖合作
 - [ ] [7 Days to Die](https://store.steampowered.com/app/251570/) — 在线合作、热销游戏、热门新品
 - [ ] [Rust](https://store.steampowered.com/app/252490/) — 在线合作、热门新品
 - [ ] [Death Road to Canada](https://store.steampowered.com/app/252610/) — 本地合作
-- [ ] [Home Sheep Home: Farmageddon Party Edition](https://store.steampowered.com/app/259810/) — 本地合作
-- [ ] [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/) — 热销游戏、热门新品
-- [ ] [Subnautica](https://store.steampowered.com/app/264710/) — 热销游戏、热门新品
-- [ ] [Dead Rising 3 Apocalypse Edition](https://store.steampowered.com/app/265550/) — 轻恐怖合作
-- [ ] [Hero Siege](https://store.steampowered.com/app/269210/) — 本地合作
-- [ ] [American Truck Simulator](https://store.steampowered.com/app/270880/) — 热门新品
-- [ ] [Broforce](https://store.steampowered.com/app/274190/) — 本地合作
 
