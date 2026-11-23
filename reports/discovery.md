@@ -1,25 +1,25 @@
 # Steam 候选覆盖报告
 
-扫描日期：2026-11-16（Asia/Shanghai）。
+扫描日期：2026-11-23（Asia/Shanghai）。
 
-每个入口抽样前 100 条；多入口合并去重发现 667 款，本次新增 54 款。扫描是抽样防遗漏，不代表覆盖所有 Steam 游戏。
+每个入口抽样前 100 条；多入口合并去重发现 659 款，本次新增 32 款。扫描是抽样防遗漏，不代表覆盖所有 Steam 游戏。
 
-台账共 944 款：正式收录 96 款，待核验 846 款，已排除 2 款。
+台账共 976 款：正式收录 96 款，待核验 878 款，已排除 2 款。
 
 类型标签只是发现线索；轻恐怖入口也可能返回重度恐怖作品，欢乐入口也不保证适合两人。待核验候选不出现在正式页面；已有排除状态与理由保持不变。
 
 | 入口 | 状态 | 抽样数 | Steam 入口总数 |
 | --- | --- | ---: | ---: |
-| [双人合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685&term=two) | 成功 | 99 | 7115 |
-| [在线合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3843) | 成功 | 100 | 11939 |
-| [本地合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3841) | 成功 | 100 | 5455 |
-| [双人解谜](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685%2C1664) | 成功 | 100 | 1680 |
-| [双人对抗](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1775%2C7368) | 成功 | 100 | 3575 |
-| [欢乐游戏](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3859%2C4136) | 成功 | 100 | 5875 |
-| [轻恐怖合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685%2C1667) | 成功 | 100 | 2254 |
-| [热销游戏](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=topsellers) | 成功 | 100 | 6394 |
-| [热门新品](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularnew) | 成功 | 100 | 347 |
-| [热门愿望单](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularwishlist) | 成功 | 100 | 5298 |
+| [双人合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685&term=two) | 成功 | 98 | 7216 |
+| [在线合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3843) | 成功 | 100 | 12138 |
+| [本地合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3841) | 成功 | 100 | 5510 |
+| [双人解谜](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685%2C1664) | 成功 | 100 | 1692 |
+| [双人对抗](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1775%2C7368) | 成功 | 100 | 3609 |
+| [欢乐游戏](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=3859%2C4136) | 成功 | 100 | 5966 |
+| [轻恐怖合作](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&tags=1685%2C1667) | 成功 | 100 | 2289 |
+| [热销游戏](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=topsellers) | 成功 | 100 | 6510 |
+| [热门新品](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularnew) | 成功 | 100 | 370 |
+| [热门愿望单](https://store.steampowered.com/search/results/?query=&start=0&count=50&category1=998&infinite=1&cc=cn&l=english&filter=popularwishlist) | 成功 | 100 | 5282 |
 
 ## 人工审核顺序
 
@@ -30,43 +30,35 @@
 
 ## 本次新增候选（最多展示 40 条，完整清单在 data/candidates.tsv）
 
-- [Magicka 2](https://store.steampowered.com/app/238370/) — 双人合作、本地合作、双人对抗
-- [Legion TD 2 - Multiplayer Tower Defense](https://store.steampowered.com/app/469600/) — 双人合作
-- [Men of War: Assault Squad 2](https://store.steampowered.com/app/244450/) — 双人合作
-- [Crusader Kings II](https://store.steampowered.com/app/203770/) — 双人合作
-- [Drift Legends 2](https://store.steampowered.com/app/3664010/) — 双人合作
-- [Spelunky 2](https://store.steampowered.com/app/418530/) — 双人合作
-- [The Outer Worlds 2](https://store.steampowered.com/app/1449110/) — 双人合作
-- [TFC2: The Fertile Crescent 2 - Collapse of The Bronze Age](https://store.steampowered.com/app/4158610/) — 双人合作
-- [PlanetSide 2](https://store.steampowered.com/app/218230/) — 双人合作
-- [Party Hard 2](https://store.steampowered.com/app/572430/) — 双人合作
-- [STAR WARS™ Battlefront II (Classic, 2005)](https://store.steampowered.com/app/6060/) — 双人合作
-- [Railway Empire 2](https://store.steampowered.com/app/1644320/) — 双人合作
-- [Stranded Deep 2](https://store.steampowered.com/app/3976770/) — 双人合作
-- [Call of Duty® 2](https://store.steampowered.com/app/2630/) — 双人合作
-- [Stronghold Crusader 2](https://store.steampowered.com/app/232890/) — 双人合作
-- [Town of Salem 2](https://store.steampowered.com/app/2140510/) — 双人合作
-- [Element TD 2 - Tower Defense](https://store.steampowered.com/app/1018830/) — 双人合作
-- [The Crew Motorfest](https://store.steampowered.com/app/2698940/) — 在线合作
-- [ROB RUN](https://store.steampowered.com/app/4262460/) — 在线合作
-- [Sniper Elite 5](https://store.steampowered.com/app/1029690/) — 在线合作、热销游戏
-- [SONIC PICO PARK](https://store.steampowered.com/app/4304060/) — 本地合作、双人解谜
-- [MARVEL Cosmic Invasion](https://store.steampowered.com/app/2753970/) — 本地合作
-- [Takeover 2](https://store.steampowered.com/app/4423270/) — 本地合作
-- [Dragonkin: The Banished](https://store.steampowered.com/app/1863430/) — 本地合作
-- [Armory Keeper](https://store.steampowered.com/app/5094930/) — 双人解谜
-- [Sort The Capybaras](https://store.steampowered.com/app/5130480/) — 双人解谜
-- [One More Plate!](https://store.steampowered.com/app/3305190/) — 双人对抗
-- [Sloppy Forgeries](https://store.steampowered.com/app/3030560/) — 双人对抗
-- [Atari 50: The Anniversary Celebration](https://store.steampowered.com/app/1919470/) — 双人对抗
-- [Pure Pool Pro](https://store.steampowered.com/app/3456930/) — 双人对抗
-- [Might & Magic: Clash of Heroes - Definitive Edition](https://store.steampowered.com/app/2213300/) — 双人对抗
-- [How They Built the Pyramids](https://store.steampowered.com/app/5458210/) — 欢乐游戏、热销游戏
-- [HANDS OVER](https://store.steampowered.com/app/4661070/) — 欢乐游戏
-- [Safari-TV](https://store.steampowered.com/app/5118500/) — 欢乐游戏
-- [Deep Rock Galactic: Rogue Core](https://store.steampowered.com/app/2605790/) — 轻恐怖合作
-- [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/) — 轻恐怖合作
-- [Returnal™](https://store.steampowered.com/app/1649240/) — 轻恐怖合作
-- [Slotbound](https://store.steampowered.com/app/4459590/) — 热销游戏、热门新品
-- [Re2 I Rise Alone](https://store.steampowered.com/app/3816120/) — 热销游戏、热门新品
-- [Frontier Tale](https://store.steampowered.com/app/4829780/) — 热销游戏
+- [Call of Duty®: Black Ops Cold War](https://store.steampowered.com/app/1985810/) — 在线合作、热销游戏
+- [Call of Duty®: Black Ops 6](https://store.steampowered.com/app/4384550/) — 在线合作、热销游戏
+- [Gold Miner: Party Rush](https://store.steampowered.com/app/4815320/) — 在线合作、本地合作、双人对抗、欢乐游戏、热销游戏
+- [Need for Speed™ Heat](https://store.steampowered.com/app/1222680/) — 在线合作、热销游戏
+- [Scam With Your Friends](https://store.steampowered.com/app/4954910/) — 在线合作
+- [Dead Space™ 2](https://store.steampowered.com/app/47780/) — 双人合作、轻恐怖合作
+- [TT Isle of Man: Ride on the Edge 2](https://store.steampowered.com/app/1082180/) — 双人合作
+- [Saints Row 2](https://store.steampowered.com/app/9480/) — 双人合作
+- [Capcom Fighting Collection 2](https://store.steampowered.com/app/2400430/) — 双人合作
+- [Supreme Commander 2](https://store.steampowered.com/app/40100/) — 双人合作
+- [Gears 5](https://store.steampowered.com/app/1097840/) — 本地合作、轻恐怖合作
+- [Rotwood](https://store.steampowered.com/app/2015270/) — 本地合作
+- [Silver Service: Tidy Up the Grand Buffet](https://store.steampowered.com/app/5413320/) — 双人解谜
+- [Garfield Lasagna Party](https://store.steampowered.com/app/2008410/) — 双人对抗
+- [Conquest of Elysium 5](https://store.steampowered.com/app/1606340/) — 双人对抗
+- [Crime Boss: Rockay City](https://store.steampowered.com/app/2933080/) — 欢乐游戏
+- [Battlefield™ V](https://store.steampowered.com/app/1238810/) — 热销游戏、热门新品
+- [FINAL FANTASY VII REBIRTH](https://store.steampowered.com/app/2909400/) — 热销游戏、热门新品
+- [DEATH STRANDING 2: ON THE BEACH](https://store.steampowered.com/app/3280350/) — 热销游戏、热门新品
+- [Battlefield™ 1](https://store.steampowered.com/app/1238840/) — 热销游戏、热门新品
+- [Battlefield™ 2042](https://store.steampowered.com/app/1517290/) — 热销游戏
+- [NINJA GAIDEN 4](https://store.steampowered.com/app/2627260/) — 热销游戏、热门新品
+- [Dead Space](https://store.steampowered.com/app/1693980/) — 热销游戏
+- [Marvel’s Spider-Man: Miles Morales](https://store.steampowered.com/app/1817190/) — 热销游戏
+- [Here Comes the Horde](https://store.steampowered.com/app/5066010/) — 热销游戏
+- [Metro Exodus](https://store.steampowered.com/app/412020/) — 热销游戏
+- [God of War](https://store.steampowered.com/app/1593500/) — 热销游戏、热门新品
+- [Horizon Forbidden West™ Complete Edition](https://store.steampowered.com/app/2420110/) — 热销游戏
+- [DEATH STRANDING DIRECTOR'S CUT](https://store.steampowered.com/app/1850570/) — 热销游戏
+- [Dead Space™ 3](https://store.steampowered.com/app/1238060/) — 轻恐怖合作
+- [I Have No Change](https://store.steampowered.com/app/3426150/) — 热门愿望单
+- [The Sims™ 4](https://store.steampowered.com/app/1222670/) — 热门新品

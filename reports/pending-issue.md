@@ -1,6 +1,6 @@
 # 双人游戏候选待审核
 
-最近扫描：2026-11-16。待核验 846 款；正式清单 96 款。
+最近扫描：2026-11-23。待核验 878 款；正式清单 96 款。
 
 自动发现仅建立队列，必须逐款人工核验，不能仅凭 Steam 多人/合作标签收录。
 
@@ -16,12 +16,15 @@
 - [ ] [Call of Duty® 2](https://store.steampowered.com/app/2630/) — 双人合作
 - [ ] [Garry's Mod](https://store.steampowered.com/app/4000/) — 在线合作、欢乐游戏
 - [ ] [STAR WARS™ Battlefront II (Classic, 2005)](https://store.steampowered.com/app/6060/) — 双人合作
+- [ ] [Saints Row 2](https://store.steampowered.com/app/9480/) — 双人合作
 - [ ] [Call of Duty: World at War](https://store.steampowered.com/app/10090/) — 轻恐怖合作
 - [ ] [Aliens vs. Predator™](https://store.steampowered.com/app/10680/) — 轻恐怖合作
 - [ ] [Grand Theft Auto IV: The Complete Edition](https://store.steampowered.com/app/12210/) — 欢乐游戏
 - [ ] [Resident Evil 5](https://store.steampowered.com/app/21690/) — 本地合作、轻恐怖合作
 - [ ] [Trine Enchanted Edition](https://store.steampowered.com/app/35700/) — 双人解谜
+- [ ] [Supreme Commander 2](https://store.steampowered.com/app/40100/) — 双人合作
 - [ ] [Call of Duty®: Black Ops](https://store.steampowered.com/app/42700/) — 轻恐怖合作
+- [ ] [Dead Space™ 2](https://store.steampowered.com/app/47780/) — 双人合作、轻恐怖合作
 - [ ] [Nidhogg](https://store.steampowered.com/app/94400/) — 双人对抗
 - [ ] [Torchlight II](https://store.steampowered.com/app/200710/) — 双人合作
 - [ ] [Tomb Raider Game of the Year](https://store.steampowered.com/app/203160/) — 热销游戏
@@ -55,7 +58,4 @@
 - [ ] [Korea. IL-2 Series](https://store.steampowered.com/app/247970/) — 双人合作
 - [ ] [LEGO® Marvel™ Super Heroes](https://store.steampowered.com/app/249130/) — 双人解谜、本地合作、欢乐游戏
 - [ ] [The Binding of Isaac: Rebirth](https://store.steampowered.com/app/250900/) — 双人合作、本地合作、轻恐怖合作
-- [ ] [7 Days to Die](https://store.steampowered.com/app/251570/) — 在线合作、热销游戏、热门新品
-- [ ] [Rust](https://store.steampowered.com/app/252490/) — 在线合作、热门新品
-- [ ] [Death Road to Canada](https://store.steampowered.com/app/252610/) — 本地合作
 
